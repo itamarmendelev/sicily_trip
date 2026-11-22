@@ -1,0 +1,65 @@
+{
+  "fceCircumetnea": {
+    "description": "הקו יוצא מקטניה Borgo ומקיף חלקים נרחבים של האתנה; אינו קו מעגלי מלא ורציף. בחלק מהקטעים ייתכנו אוטובוסים חלופיים.",
+    "schedules": [
+      {
+        "route": "Linguaglossa–Randazzo",
+        "serviceDate": "2026-03-16",
+        "departures": [
+          "09:45",
+          "14:18",
+          "16:55"
+        ],
+        "arrivals": [
+          "10:22",
+          "14:55",
+          "17:32"
+        ],
+        "status": "historical_baseline_not_trip_date_confirmed"
+      },
+      {
+        "route": "Randazzo–Linguaglossa",
+        "serviceDate": "2026-03-16",
+        "departures": [
+          "08:55",
+          "12:45",
+          "16:05"
+        ],
+        "arrivals": [
+          "09:32",
+          "13:22",
+          "16:42"
+        ],
+        "status": "historical_baseline_not_trip_date_confirmed"
+      }
+    ],
+    "winterBusSchedule": {
+      "reportedEffectiveDate": "2026-10-05",
+      "details": "לא נרשמו במסמך שעות אוטובוס שלא אומתו; לבדוק את הקובץ הרשמי לכל תאריך ותחנה.",
+      "status": "must_verify"
+    },
+    "rules": [
+      "להבחין בין רכבת בפועל לבין שירות אוטובוס חלופי.",
+      "לבדוק תאריך תחולה, תחנת מוצא ויעד, סוג שירות ונסיעה אחרונה חזרה.",
+      "לא לרדת בתחנת ביניים בלי לבדוק שירות חזור, הליכה בטוחה ותאורה.",
+      "אין להניח שקיימת שמירת מזוודות בתחנות."
+    ]
+  },
+  "alibus": {
+    "operator": "AMTS",
+    "route": "Catania Airport – מרכז קטניה – תחנת הרכבת המרכזית",
+    "reportedFrequencyMinutes": "18–25",
+    "reportedPriceEUR": 4,
+    "status": "reported_not_confirmed_for_2026-12-20",
+    "notes": [
+      "המסמך מציין שקיים שירות גם ביום ראשון.",
+      "יש לאמת לוח יום ראשון, מחיר, תחנות ואפשרות תשלום באתר AMTS.",
+      "תחנת העלייה הקרובה תלויה בכתובת המלון הסופית."
+    ]
+  },
+  "taxiBackup": {
+    "reportedQuoteEUR": "40–60",
+    "source": "הצעת מחיר שהמלון ציין בעבר",
+    "status": "not_guaranteed_tariff"
+  }
+}

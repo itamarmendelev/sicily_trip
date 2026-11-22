@@ -1,0 +1,82 @@
+{
+  "tasks": [
+    {
+      "id": "confirm-catania-hotel",
+      "title": "לאשר שם וכתובת המלון הסופיים בקטניה",
+      "area": "Catania",
+      "priority": "high",
+      "status": "open",
+      "details": "כולל זמינות, מחיר, תנאי ביטול, שעת קבלה/הגעה מאוחרת ותחנת Alibus הקרובה."
+    },
+    {
+      "id": "confirm-fce-december",
+      "title": "לאמת לוחות FCE לתאריכים 15–19.12.2026",
+      "area": "Transport",
+      "priority": "high",
+      "status": "open",
+      "details": "כולל רכבת/אוטובוס חלופי, תחנות ונסיעות אחרונות."
+    },
+    {
+      "id": "decide-riposto-stop",
+      "title": "להחליט על עצירת ריפוסטו ב-15.12",
+      "area": "Riposto",
+      "priority": "high",
+      "status": "open",
+      "details": "רק לאחר פתרון מזוודות ובדיקת זמני מעבר."
+    },
+    {
+      "id": "linguaglossa-walk",
+      "title": "לקבל תשובה לגבי הליכה באנגלית בלינגואגלוסה",
+      "area": "Linguaglossa",
+      "priority": "high",
+      "status": "open",
+      "details": "לפנות ל-Francesca Laganà / CAI Linguaglossa / Pro Loco; לבקש הליכה קלה של שעה עד שעתיים."
+    },
+    {
+      "id": "verify-opening-hours",
+      "title": "לאמת שעות פתיחה של אתרים מרכזיים",
+      "area": "All",
+      "priority": "high",
+      "status": "open",
+      "details": "Teatro Romano, Museo Saro Franco, Pinacoteca Nunzio Sciavarrello והכנסיות ברנדצו."
+    },
+    {
+      "id": "randazzo-jewish-tour",
+      "title": "לברר סיור בעקבות הקהילה היהודית ברנדצו",
+      "area": "Randazzo",
+      "priority": "medium",
+      "status": "open",
+      "details": "לאמת מסלול, נגישות, מדריך, שפה, משך ונקודות העצירה: Colle San Giorgio, Porta degli Ebrei/Porta Aragonese, Santa Maria dell’Itria/Cunziria ומיקום ה-Meskita ההיסטורית."
+    },
+    {
+      "id": "verify-markets",
+      "title": "לאמת שווקים מול העיריות/Pro Loco",
+      "area": "All",
+      "priority": "medium",
+      "status": "open",
+      "details": "במיוחד ריפוסטו, אדרנו ומאלטו; לא להציג שוק כפעיל בוודאות ללא אימות מקומי."
+    },
+    {
+      "id": "verify-restaurants",
+      "title": "לאמת פעילות מסעדות בימי השבוע המתוכננים",
+      "area": "All",
+      "priority": "medium",
+      "status": "open"
+    },
+    {
+      "id": "choose-bronte-adrano",
+      "title": "להחליט אם אדרנו או ברונטה יקבלו חצי יום/יום",
+      "area": "Bronte / Adrano",
+      "priority": "medium",
+      "status": "open",
+      "details": "בלי לנסות לדחוס יותר מדי תחנות."
+    },
+    {
+      "id": "verify-alibus",
+      "title": "לבדוק Alibus ליום ראשון 20.12 וחלופת מונית",
+      "area": "Catania",
+      "priority": "high",
+      "status": "open"
+    }
+  ]
+}

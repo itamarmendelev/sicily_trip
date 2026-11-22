@@ -1,0 +1,187 @@
+{
+  "contacts": [
+    {
+      "id": "francesca-lagana",
+      "name": "Francesca Laganà – Etnamente",
+      "area": "Linguaglossa",
+      "role": "מדריכת טבע מקומית",
+      "phone": "+39 348 625 7291",
+      "email": "etnamente@gmail.com",
+      "status": "lead_unverified",
+      "note": "לברר פעילות, אנגלית ואפשרות למסלול ללא רכב."
+    },
+    {
+      "id": "cai-linguaglossa",
+      "name": "CAI Linguaglossa",
+      "area": "Linguaglossa",
+      "role": "מועדון מטיילים",
+      "phone": "+39 349 535 4987",
+      "email": "info@cailinguaglossa.com",
+      "status": "lead_unverified",
+      "note": "לבקש הליכה קלה או פעילות מקומית."
+    },
+    {
+      "id": "pro-loco-linguaglossa",
+      "name": "Pro Loco Linguaglossa",
+      "area": "Linguaglossa",
+      "role": "מידע תיירותי מקומי",
+      "phone": "+39 095 643094",
+      "address": "Piazza Annunziata 5",
+      "status": "lead_unverified",
+      "note": "דווח שניתן לתאם סיורים; שעות בדצמבר מחייבות אישור."
+    },
+    {
+      "id": "escursioni-etna-don-mariano",
+      "name": "Escursioni Etna – Don Mariano",
+      "area": "Linguaglossa / Etna Nord",
+      "role": "מפעיל טיולים",
+      "phone": "+39 340 407 2194",
+      "status": "lead_unverified",
+      "note": "פעילות עדכנית לא אומתה."
+    },
+    {
+      "id": "island-of-wonders",
+      "name": "The Island of Wonders",
+      "area": "Randazzo",
+      "role": "עמותה/מדריך מקומי",
+      "phone": "+39 320 423 0813",
+      "email": [
+        "associazionetheislandofwonders@gmail.com",
+        "theislandofwonders@gmail.com"
+      ],
+      "address": "Via Duca degli Abruzzi 9",
+      "status": "lead_unverified",
+      "note": "שתי כתובות דוא״ל הופיעו; לאמת לפני שליחה."
+    },
+    {
+      "id": "salvo-guidotto",
+      "name": "Salvo Guidotto",
+      "area": "Randazzo",
+      "role": "איש קשר מקומי",
+      "phone": "+39 320 787 7728",
+      "email": "salvoguidotto.sg.sg@gmail.com",
+      "status": "lead_unverified"
+    },
+    {
+      "id": "cai-randazzo",
+      "name": "CAI Randazzo",
+      "area": "Randazzo",
+      "role": "מועדון מטיילים",
+      "phone": "+39 380 346 2623",
+      "email": "cai.randazzo2024@gmail.com",
+      "status": "lead_unverified"
+    },
+    {
+      "id": "pro-loco-randazzo",
+      "name": "Pro Loco Randazzo",
+      "area": "Randazzo",
+      "role": "מידע תיירותי מקומי",
+      "status": "missing_contact",
+      "note": "פרטי קשר עדכניים טרם נאספו."
+    },
+    {
+      "id": "pro-loco-bronte",
+      "name": "Pro Loco Bronte",
+      "area": "Bronte",
+      "role": "מידע תיירותי מקומי",
+      "phone": "+39 348 641 1997",
+      "status": "lead_unverified"
+    },
+    {
+      "id": "cai-bronte",
+      "name": "CAI Bronte",
+      "area": "Bronte",
+      "role": "מועדון מטיילים",
+      "phone": "+39 328 368 9509",
+      "email": "info@caibronte.it",
+      "status": "lead_unverified"
+    },
+    {
+      "id": "pro-loco-vena",
+      "name": "Pro Loco Vena APS",
+      "area": "Vena",
+      "role": "מידע תיירותי מקומי",
+      "phone": "+39 351 996 2356",
+      "status": "lead_unverified"
+    },
+    {
+      "id": "pro-loco-torre-archirafi",
+      "name": "Pro Loco Torre Archirafi",
+      "area": "Torre Archirafi",
+      "role": "מידע תיירותי מקומי",
+      "phone": "+39 334 747 8623",
+      "status": "lead_unverified"
+    },
+    {
+      "id": "pro-loco-riposto",
+      "name": "Pro Loco Riposto",
+      "area": "Riposto",
+      "role": "מידע תיירותי מקומי",
+      "phone": "+39 095 962226",
+      "status": "lead_unverified"
+    },
+    {
+      "id": "cai-giarre",
+      "name": "CAI Giarre",
+      "area": "Giarre",
+      "role": "מועדון מטיילים",
+      "phone": "+39 329 978 3071",
+      "status": "lead_unverified"
+    },
+    {
+      "id": "wwf-sicilia-nord-orientale",
+      "name": "WWF Sicilia Nord Orientale",
+      "area": "Eastern Sicily",
+      "role": "ארגון סביבתי",
+      "phone": "+39 347 934 6853",
+      "email": "sicilianordorientale@wwf.it",
+      "status": "lead_unverified",
+      "note": "לברר פעילות קהילתית/הליכה."
+    },
+    {
+      "id": "gruppo-guide-etna-nord",
+      "name": "Gruppo Guide Etna Nord",
+      "area": "Etna Nord",
+      "role": "מדריכים",
+      "phone": "+39 095 777 4502",
+      "whatsapp": "+39 377 371 1028",
+      "email": "info@guidetnanord.com",
+      "status": "lead_unverified"
+    },
+    {
+      "id": "guide-vulcanologiche-etna-nord",
+      "name": "Guide Vulcanologiche Etna Nord",
+      "area": "Etna Nord",
+      "role": "מדריכים וולקנולוגיים",
+      "phone": [
+        "+39 345 574 1330",
+        "+39 353 380 0071"
+      ],
+      "email": "info@guidevulcanologicheetna.it",
+      "status": "lead_unverified"
+    },
+    {
+      "id": "renate-kobler",
+      "name": "Renate Kobler",
+      "area": "Etna Nord",
+      "role": "אשת קשר/מדריכה",
+      "phone": [
+        "+39 347 911 2617",
+        "+39 389 489 5786"
+      ],
+      "email": "renatekobler@libero.it",
+      "status": "lead_unverified",
+      "note": "פעילות ושפה לא אומתו."
+    },
+    {
+      "id": "carmelo-cannavo",
+      "name": "Carmelo Cannavò (CAI)",
+      "area": "Sicily",
+      "role": "איש קשר CAI",
+      "phone": "+39 339 825 2901",
+      "email": "ccesic@cai.it",
+      "status": "lead_unverified",
+      "note": "לברר שיוך וזמינות."
+    }
+  ]
+}

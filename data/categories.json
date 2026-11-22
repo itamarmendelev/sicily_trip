@@ -1,0 +1,79 @@
+{
+  "categories": [
+    {
+      "id": "lodging",
+      "label": "לינה",
+      "icon": "bed"
+    },
+    {
+      "id": "market",
+      "label": "שווקים",
+      "icon": "store"
+    },
+    {
+      "id": "historic_site",
+      "label": "אתרים היסטוריים",
+      "icon": "landmark"
+    },
+    {
+      "id": "museum",
+      "label": "מוזיאונים",
+      "icon": "museum"
+    },
+    {
+      "id": "church",
+      "label": "כנסיות",
+      "icon": "church"
+    },
+    {
+      "id": "craft",
+      "label": "מלאכות וסדנאות",
+      "icon": "palette"
+    },
+    {
+      "id": "craft_shop",
+      "label": "חנויות מלאכה",
+      "icon": "palette"
+    },
+    {
+      "id": "second_hand",
+      "label": "יד שנייה ווינטג׳",
+      "icon": "shirt"
+    },
+    {
+      "id": "food_shop",
+      "label": "אוכל ומעדניות",
+      "icon": "utensils"
+    },
+    {
+      "id": "food_experience",
+      "label": "חוויות אוכל",
+      "icon": "utensils"
+    },
+    {
+      "id": "winery",
+      "label": "יקבים",
+      "icon": "wine"
+    },
+    {
+      "id": "garden",
+      "label": "גנים",
+      "icon": "trees"
+    },
+    {
+      "id": "restaurant",
+      "label": "מסעדות",
+      "icon": "utensils"
+    },
+    {
+      "id": "area",
+      "label": "אזורים לשיטוט",
+      "icon": "map-pin"
+    },
+    {
+      "id": "walking_route",
+      "label": "מסלולי הליכה",
+      "icon": "footprints"
+    }
+  ]
+}

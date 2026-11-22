@@ -1,0 +1,40 @@
+{
+  "tripId": "sicily-december-2026",
+  "title": "סיציליה – עינת ואיילת",
+  "language": "he",
+  "direction": "rtl",
+  "startDate": "2026-12-13",
+  "endDate": "2026-12-20",
+  "timezone": "Europe/Rome",
+  "travelers": 2,
+  "transportMode": [
+    "public_transport",
+    "walking",
+    "taxi_as_backup"
+  ],
+  "summary": "טיול בתחבורה ציבורית סביב האתנה; דגש על כפרים, הליכות נוחות, נופים, אמנות ומלאכות מקומיות, כנסיות, שווקים, סיפורים ומפגשים. להשאיר מרווח לשיטוט ולא להעמיס יעדים.",
+  "sourceDocument": {
+    "filename": "תיק_טיול_סיציליה_דצמבר_2026_מעודכן_חנויות_יד_שניה_ורנדצו.pdf",
+    "pages": 9,
+    "informationCollectedThrough": "2026-11-16",
+    "documentUpdated": "2026-11-18",
+    "extractionDate": "2026-11-21",
+    "note": "כל פרטי השעות, הזמינות והפעילות במסמך המקור עשויים לדרוש אימות. אין לראות בהם הבטחה."
+  },
+  "lodging": [
+    {
+      "placeId": "bellini-inn-deluxe",
+      "town": "Catania",
+      "name": "Bellini Inn Deluxe",
+      "status": "needs_confirmation",
+      "notes": "יש לאשר ישירות זמינות, מחיר, תנאי ביטול, כתובת סופית ושעת קבלה/אפשרות הגעה מאוחרת. ההגעה מתוכננת בשעה 01:00 בלילה שבין 13 ל-14 בדצמבר."
+    }
+  ],
+  "flight": {
+    "date": "2026-12-20",
+    "departureTime": "18:00",
+    "targetAirportArrivalTime": "15:00",
+    "airport": "Catania Airport",
+    "status": "provided_in_source"
+  }
+}

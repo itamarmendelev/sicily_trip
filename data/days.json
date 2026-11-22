@@ -1,0 +1,284 @@
+[
+  {
+    "date": "2026-12-13",
+    "title": "הגעה לקטניה",
+    "town": "Catania",
+    "overnightTown": "Catania",
+    "summary": "הגעה בשעה 01:00 בלילה שבין 13 ל-14 בדצמבר; לינה בקטניה.",
+    "activities": [
+      {
+        "title": "הגעה למלון",
+        "period": "night",
+        "priority": "essential",
+        "placeId": "bellini-inn-deluxe",
+        "notes": "לתאם מראש הגעה מאוחרת וקבלת חדר. לוודא כתובת ודרך הגעה."
+      }
+    ]
+  },
+  {
+    "date": "2026-12-14",
+    "title": "קטניה",
+    "town": "Catania",
+    "overnightTown": "Catania",
+    "summary": "שווקי בוקר, מרכז היסטורי, כנסיות ואתרי עתיקות. להשאיר זמן לשיטוט רגוע.",
+    "activities": [
+      {
+        "title": "La Pescheria",
+        "period": "morning",
+        "priority": "planned",
+        "placeId": "la-pescheria",
+        "notes": "שוק הדגים ההיסטורי ליד Piazza del Duomo; להגיע בבוקר ולבדוק פעילות."
+      },
+      {
+        "title": "Fera ’o Luni",
+        "period": "morning",
+        "priority": "planned",
+        "placeId": "fera-o-luni",
+        "notes": "שוק באזור Piazza Carlo Alberto; אופי שונה משוק הדגים. לבדוק פעילות."
+      },
+      {
+        "title": "המרכז ההיסטורי ואתרי העיר",
+        "period": "afternoon",
+        "priority": "flexible",
+        "notes": "כיכרות, כנסיות ואתרי עתיקות; לבחור בקצב רגוע."
+      },
+      {
+        "title": "Teatro Romano di Catania",
+        "period": "afternoon",
+        "priority": "candidate",
+        "placeId": "teatro-romano-catania",
+        "notes": "שעות שדווחו בעבר 09:00–19:00, כניסה אחרונה 18:30; לבדוק מחדש."
+      },
+      {
+        "title": "אתר חדירת סלע לבה במבנה/אתר אוניברסיטאי",
+        "period": "afternoon",
+        "priority": "research_needed",
+        "notes": "האתר לא זוהה בשם מדויק במסמך; אין ליצור עבורו נקודת ניווט עד לזיהוי."
+      },
+      {
+        "title": "Osteria Antica Marina",
+        "period": "lunch",
+        "priority": "candidate",
+        "placeId": "osteria-antica-marina",
+        "notes": "מועמדת בלבד; לבדוק פתיחה והזמנה ביום שני."
+      }
+    ],
+    "rainyDayPlaceIds": [
+      "monastero-benedettini",
+      "macs-catania",
+      "le-ciminiere",
+      "orto-botanico-catania"
+    ]
+  },
+  {
+    "date": "2026-12-15",
+    "title": "מקטניה ללינגואגלוסה – אפשרות לריפוסטו",
+    "town": "Catania / Riposto / Linguaglossa",
+    "overnightTown": "Linguaglossa",
+    "summary": "שעת היציאה מקטניה טרם נקבעה. עצירה בריפוסטו ובטורה ארקיראפי רק אם זמני התחבורה והמזוודות מסתדרים.",
+    "openDecision": "באיזו שעה יוצאות מקטניה? לפי זה להחליט אם לשלב את הגן הבוטני או להקדיש את הבוקר לשווקים ולקניות.",
+    "activities": [
+      {
+        "title": "יציאה מקטניה",
+        "period": "morning",
+        "priority": "essential",
+        "notes": "שעת יציאה פתוחה; יש לתכנן בהתאם."
+      },
+      {
+        "title": "ריפוסטו – מרכז, נמל וטיילת",
+        "period": "flexible",
+        "priority": "optional",
+        "placeId": "riposto-center",
+        "notes": "Piazza San Pietro, Porto dell’Etna ו-Lungomare Edoardo Pantano."
+      },
+      {
+        "title": "Torre Archirafi",
+        "period": "flexible",
+        "priority": "optional",
+        "placeId": "torre-archirafi",
+        "notes": "כפר דייגים קטן; הליכה של כ-2 ק״מ לאורך החוף הוזכרה אך יש לבדוק נקודת התחלה ומצב דרך."
+      },
+      {
+        "title": "הגעה ללינגואגלוסה",
+        "period": "evening",
+        "priority": "essential",
+        "notes": "אם אין פתרון פשוט למזוודות או שהתחבורה אינה נוחה – לנסוע ישירות."
+      }
+    ],
+    "warnings": [
+      "אין להניח שיש שמירת חפצים בתחנה או בעסק.",
+      "אין לבצע עצירה עם מזוודות ללא פתרון מפורש."
+    ]
+  },
+  {
+    "date": "2026-12-16",
+    "title": "לינגואגלוסה והסביבה",
+    "town": "Linguaglossa",
+    "overnightTown": "Linguaglossa",
+    "summary": "מרכז ישן, סמטאות, כיכרות וכנסיות; עדיפות להליכה קלה עם מדריך מקומי אם תתקבל תשובה.",
+    "activities": [
+      {
+        "title": "המרכז הישן",
+        "period": "morning",
+        "priority": "planned",
+        "notes": "שיטוט רגוע בסמטאות, בכיכרות ובכנסיות."
+      },
+      {
+        "title": "הליכה מודרכת קלה",
+        "period": "flexible",
+        "priority": "candidate",
+        "notes": "כשעה עד שעתיים, קלה, יוצאת מהכפר או נגישה בתחבורה ציבורית; אין כרגע מסלול ספציפי שאומת כפתוח ונגיש. לברר באנגלית ונקודת מפגש."
+      },
+      {
+        "title": "Ceramiche Turrisi",
+        "period": "afternoon",
+        "priority": "candidate",
+        "placeId": "ceramiche-turrisi",
+        "notes": "יש לברר שהחנות פעילה והאם ניתן לפגוש יוצר/ת או לראות תהליך."
+      },
+      {
+        "title": "Neri Agricoltura dell’Etna",
+        "period": "flexible",
+        "priority": "candidate",
+        "placeId": "neri-agricoltura-etna",
+        "notes": "ביקור חקלאי-קולינרי בתיאום מראש; לברר מחיר, שפה, תחבורה וכמה מהביקור מקורה."
+      },
+      {
+        "title": "Tenute Vecchio",
+        "period": "flexible",
+        "priority": "candidate",
+        "placeId": "tenute-vecchio",
+        "notes": "ביקור וטעימות בתיאום מראש; חלק מהסיור בחוץ. לברר הגעה ללא רכב."
+      }
+    ],
+    "rainyDayPlaceIds": [
+      "chiesa-madre-linguaglossa",
+      "museo-francesco-messina",
+      "neri-agricoltura-etna",
+      "tenute-vecchio"
+    ]
+  },
+  {
+    "date": "2026-12-17",
+    "title": "מלינגואגלוסה לרנדצו",
+    "town": "Linguaglossa / Randazzo",
+    "overnightTown": "Randazzo",
+    "summary": "המעבר עשוי להיות חווייתי ב-Ferrovia Circumetnea; לוח מרץ 2026 הוא נתון בסיס בלבד ולא לוח מאושר לדצמבר.",
+    "activities": [
+      {
+        "title": "נסיעה ב-Circumetnea",
+        "period": "morning",
+        "priority": "essential",
+        "notes": "לאמת לוח עדכני, סוג שירות (רכבת/אוטובוס חלופי), תחנות ונסיעה אחרונה."
+      },
+      {
+        "title": "סיור בעקבות הקהילה היהודית של ימי הביניים",
+        "period": "afternoon",
+        "priority": "candidate",
+        "placeId": "randazzo-jewish-route",
+        "notes": "מסלול מוצע סביב Colle di San Giorgio, Porta degli Ebrei/Porta Aragonese, Santa Maria dell’Itria/Cunziria ומיקום ה-Meskita ההיסטורית. אין להניח שנותר מבנה בית כנסת שניתן להיכנס אליו או שיש שילוט. לתאם מדריך ולבדוק נגישות ושפה."
+      },
+      {
+        "title": "העיר העתיקה של רנדצו",
+        "period": "afternoon",
+        "priority": "flexible",
+        "notes": "Basilica di Santa Maria, Chiesa di San Martino ומגדל הפעמונים, Chiesa di San Nicolò; שעות פתיחת הכנסיות לא אומתו."
+      }
+    ],
+    "rainyDayPlaceIds": [
+      "casa-musica-liuteria",
+      "museo-opera-pupi",
+      "museo-scienze-naturali-randazzo"
+    ]
+  },
+  {
+    "date": "2026-12-18",
+    "title": "רנדצו ויישובים על קו Circumetnea",
+    "town": "Randazzo / Bronte / Adrano",
+    "overnightTown": "Randazzo",
+    "summary": "לבחור יעד אחד או שניים בלבד לפי לוחות התחבורה; ברונטה ואדרנו הן אפשרויות ולא התחייבות.",
+    "activities": [
+      {
+        "title": "בחירת יעד יומי",
+        "period": "morning",
+        "priority": "essential",
+        "notes": "להחליט בין רנדצו, ברונטה ואדרנו לפי לוח התחבורה והעדפות."
+      },
+      {
+        "title": "Pinacoteca Nunzio Sciavarrello",
+        "period": "flexible",
+        "priority": "candidate",
+        "placeId": "pinacoteca-sciavarrello",
+        "notes": "לברר מול המקום שהגלריה פתוחה ומה מוצג."
+      },
+      {
+        "title": "Pistacchi Grassia",
+        "period": "flexible",
+        "priority": "candidate",
+        "placeId": "pistacchi-grassia",
+        "notes": "חנות מקורה וטעימות; לברר אם ניתן לקבל הסבר על עיבוד הפיסטוק בתוך העסק."
+      },
+      {
+        "title": "Arte & Decoro",
+        "period": "flexible",
+        "priority": "candidate",
+        "placeId": "arte-decoro",
+        "notes": "סטודיו/חנות לקרמיקה ומיוליקה; לברר אם ניתן לבקר בסדנה ולפגוש את Sabrina Caruso."
+      },
+      {
+        "title": "Museo Regionale Saro Franco",
+        "period": "flexible",
+        "priority": "candidate",
+        "placeId": "museo-saro-franco",
+        "notes": "מוזיאון באדרנו; שעות שפורסמו דורשות אימות."
+      }
+    ],
+    "warnings": [
+      "מוזיאון הרכבת בברונטה אינו יעד ודאי; הגישה תלויה בפתיחת המקום על ידי צוות התחנה.",
+      "אין להעמיס יותר מדי תחנות ביום אחד."
+    ]
+  },
+  {
+    "date": "2026-12-19",
+    "title": "חזרה לקטניה",
+    "town": "Randazzo / Catania",
+    "overnightTown": "Catania",
+    "summary": "היום מיועד לחזרה לקטניה לקראת הטיסה. עצירה בברונטה או באדרנו רק אם התחבורה, המזוודות ושעות הביקור מסתדרות.",
+    "activities": [
+      {
+        "title": "חזרה לקטניה",
+        "period": "morning",
+        "priority": "essential",
+        "notes": "עדיפות לחזרה ישירה אם אין פתרון נוח לעצירה בדרך."
+      },
+      {
+        "title": "עצירה בברונטה או אדרנו",
+        "period": "flexible",
+        "priority": "optional",
+        "notes": "רק לאחר בדיקת נסיעה נוחה, פתרון למזוודות ושעות פתיחה."
+      }
+    ],
+    "warnings": [
+      "שוק יום ראשון של רנדצו אינו מתאים ללינה המתוכננת בקטניה בליל 19.12."
+    ]
+  },
+  {
+    "date": "2026-12-20",
+    "title": "טיסה מקטניה",
+    "town": "Catania",
+    "overnightTown": null,
+    "summary": "טיסה בשעה 18:00; יעד להגיע לשדה עד 15:00.",
+    "activities": [
+      {
+        "title": "נסיעה לשדה התעופה",
+        "period": "afternoon",
+        "priority": "essential",
+        "notes": "Alibus של AMTS דווח כפעיל גם ביום ראשון. יש לאמת לוח, מחיר, תחנות ואפשרות תשלום; תחנת העלייה תלויה בכתובת המלון הסופית."
+      }
+    ],
+    "warnings": [
+      "מחיר/תדירות Alibus במסמך הם נתונים שדווחו ולא התחייבות עדכנית.",
+      "הצעת המונית מהמלון 40–60 אירו אינה תעריף מובטח."
+    ]
+  }
+]
