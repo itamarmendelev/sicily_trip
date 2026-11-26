@@ -8,7 +8,11 @@
       "phone": "+39 348 625 7291",
       "email": "etnamente@gmail.com",
       "status": "lead_unverified",
-      "note": "לברר פעילות, אנגלית ואפשרות למסלול ללא רכב."
+      "note": "לברר פעילות, אנגלית ואפשרות למסלול ללא רכב.",
+      "source": {
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
+      }
     },
     {
       "id": "cai-linguaglossa",
@@ -18,7 +22,11 @@
       "phone": "+39 349 535 4987",
       "email": "info@cailinguaglossa.com",
       "status": "lead_unverified",
-      "note": "לבקש הליכה קלה או פעילות מקומית."
+      "note": "לבקש הליכה קלה או פעילות מקומית.",
+      "source": {
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
+      }
     },
     {
       "id": "pro-loco-linguaglossa",
@@ -28,7 +36,11 @@
       "phone": "+39 095 643094",
       "address": "Piazza Annunziata 5",
       "status": "lead_unverified",
-      "note": "דווח שניתן לתאם סיורים; שעות בדצמבר מחייבות אישור."
+      "note": "דווח שניתן לתאם סיורים; שעות בדצמבר מחייבות אישור.",
+      "source": {
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
+      }
     },
     {
       "id": "escursioni-etna-don-mariano",
@@ -37,7 +49,11 @@
       "role": "מפעיל טיולים",
       "phone": "+39 340 407 2194",
       "status": "lead_unverified",
-      "note": "פעילות עדכנית לא אומתה."
+      "note": "פעילות עדכנית לא אומתה.",
+      "source": {
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
+      }
     },
     {
       "id": "island-of-wonders",
@@ -51,7 +67,11 @@
       ],
       "address": "Via Duca degli Abruzzi 9",
       "status": "lead_unverified",
-      "note": "שתי כתובות דוא״ל הופיעו; לאמת לפני שליחה."
+      "note": "שתי כתובות דוא״ל הופיעו; לאמת לפני שליחה.",
+      "source": {
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
+      }
     },
     {
       "id": "salvo-guidotto",
@@ -60,7 +80,11 @@
       "role": "איש קשר מקומי",
       "phone": "+39 320 787 7728",
       "email": "salvoguidotto.sg.sg@gmail.com",
-      "status": "lead_unverified"
+      "status": "lead_unverified",
+      "source": {
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
+      }
     },
     {
       "id": "cai-randazzo",
@@ -69,15 +93,27 @@
       "role": "מועדון מטיילים",
       "phone": "+39 380 346 2623",
       "email": "cai.randazzo2024@gmail.com",
-      "status": "lead_unverified"
+      "status": "lead_unverified",
+      "source": {
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
+      }
     },
     {
       "id": "pro-loco-randazzo",
       "name": "Pro Loco Randazzo",
       "area": "Randazzo",
       "role": "מידע תיירותי מקומי",
-      "status": "missing_contact",
-      "note": "פרטי קשר עדכניים טרם נאספו."
+      "status": "lead_unverified",
+      "note": "פרטי קשר עדכניים טרם נאספו.",
+      "phone": "+39 352 00 95036",
+      "email": "prolocorandazzo.ct@gmail.com",
+      "website": "https://prolocorandazzo.it",
+      "address": "Via Umberto 118",
+      "source": {
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
+      }
     },
     {
       "id": "pro-loco-bronte",
@@ -85,7 +121,11 @@
       "area": "Bronte",
       "role": "מידע תיירותי מקומי",
       "phone": "+39 348 641 1997",
-      "status": "lead_unverified"
+      "status": "lead_unverified",
+      "source": {
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
+      }
     },
     {
       "id": "cai-bronte",
@@ -94,15 +134,11 @@
       "role": "מועדון מטיילים",
       "phone": "+39 328 368 9509",
       "email": "info@caibronte.it",
-      "status": "lead_unverified"
-    },
-    {
-      "id": "pro-loco-vena",
-      "name": "Pro Loco Vena APS",
-      "area": "Vena",
-      "role": "מידע תיירותי מקומי",
-      "phone": "+39 351 996 2356",
-      "status": "lead_unverified"
+      "status": "lead_unverified",
+      "source": {
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
+      }
     },
     {
       "id": "pro-loco-torre-archirafi",
@@ -110,7 +146,11 @@
       "area": "Torre Archirafi",
       "role": "מידע תיירותי מקומי",
       "phone": "+39 334 747 8623",
-      "status": "lead_unverified"
+      "status": "lead_unverified",
+      "source": {
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
+      }
     },
     {
       "id": "pro-loco-riposto",
@@ -118,25 +158,11 @@
       "area": "Riposto",
       "role": "מידע תיירותי מקומי",
       "phone": "+39 095 962226",
-      "status": "lead_unverified"
-    },
-    {
-      "id": "cai-giarre",
-      "name": "CAI Giarre",
-      "area": "Giarre",
-      "role": "מועדון מטיילים",
-      "phone": "+39 329 978 3071",
-      "status": "lead_unverified"
-    },
-    {
-      "id": "wwf-sicilia-nord-orientale",
-      "name": "WWF Sicilia Nord Orientale",
-      "area": "Eastern Sicily",
-      "role": "ארגון סביבתי",
-      "phone": "+39 347 934 6853",
-      "email": "sicilianordorientale@wwf.it",
       "status": "lead_unverified",
-      "note": "לברר פעילות קהילתית/הליכה."
+      "source": {
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
+      }
     },
     {
       "id": "gruppo-guide-etna-nord",
@@ -146,7 +172,11 @@
       "phone": "+39 095 777 4502",
       "whatsapp": "+39 377 371 1028",
       "email": "info@guidetnanord.com",
-      "status": "lead_unverified"
+      "status": "lead_unverified",
+      "source": {
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
+      }
     },
     {
       "id": "guide-vulcanologiche-etna-nord",
@@ -158,7 +188,11 @@
         "+39 353 380 0071"
       ],
       "email": "info@guidevulcanologicheetna.it",
-      "status": "lead_unverified"
+      "status": "lead_unverified",
+      "source": {
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
+      }
     },
     {
       "id": "renate-kobler",
@@ -171,17 +205,40 @@
       ],
       "email": "renatekobler@libero.it",
       "status": "lead_unverified",
-      "note": "פעילות ושפה לא אומתו."
+      "note": "פעילות ושפה לא אומתו.",
+      "source": {
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
+      }
     },
     {
-      "id": "carmelo-cannavo",
-      "name": "Carmelo Cannavò (CAI)",
-      "area": "Sicily",
-      "role": "איש קשר CAI",
-      "phone": "+39 339 825 2901",
-      "email": "ccesic@cai.it",
-      "status": "lead_unverified",
-      "note": "לברר שיוך וזמינות."
+      "id": "fce-circumetnea",
+      "name": "FCE – Circumetnea",
+      "area": "Transport",
+      "role": "מידע לנוסעים",
+      "phone": "+39 095 541250",
+      "website": "https://circumetnea.it",
+      "status": "verified",
+      "source": {
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
+      },
+      "note": "לבדוק לוח עדכני לפני כל נסיעה."
+    },
+    {
+      "id": "amts-catania",
+      "name": "AMTS",
+      "area": "Transport",
+      "role": "מידע לנוסעים (Alibus)",
+      "phone": "800 018 696",
+      "email": "urp@amts.ct.it",
+      "website": "https://amt.ct.it",
+      "status": "needs_confirmation",
+      "source": {
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
+      },
+      "note": "ליום ראשון 20.12 יש לאמת שעות, מחיר ותחנה קרובה למלון."
     }
   ]
 }

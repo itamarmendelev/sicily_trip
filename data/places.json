@@ -1,44 +1,26 @@
 {
   "places": [
     {
-      "id": "bellini-inn-deluxe",
-      "name": "Bellini Inn Deluxe",
-      "town": "Catania",
-      "category": "lodging",
-      "address": null,
-      "coordinates": null,
-      "phone": null,
-      "email": null,
-      "website": null,
-      "openingHours": null,
-      "status": "needs_confirmation",
-      "description": "לאשר כתובת סופית, זמינות, מחיר, תנאי ביטול וקבלת אורחות בשעה 01:00.",
-      "source": {
-        "document": "trip_pdf",
-        "pages": "1-9",
-        "verification": "source_document_only"
-      },
-      "sourceNote": "הפרטים וההערות מבוססים על תיק הטיול; אין לראות בהם אימות חיצוני עדכני."
-    },
-    {
       "id": "la-pescheria",
       "name": "La Pescheria",
       "town": "Catania",
       "category": "market",
-      "address": "Piazza del Duomo",
+      "address": "Piazza Alonzo di Benedetto / Via Pardo",
       "coordinates": null,
       "phone": null,
       "email": null,
       "website": null,
       "openingHours": null,
-      "status": "reported_schedule_unverified",
-      "description": "שוק דגים היסטורי; להגיע בבוקר ולבדוק פעילות ביום 14.12.",
+      "status": "verified",
+      "description": "שוק דגים ופירות ים ססגוני מאחורי כיכר הדואומו, עם אווירה מקומית חזקה.",
       "source": {
-        "document": "trip_pdf",
-        "pages": "1-9",
-        "verification": "source_document_only"
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
       },
-      "sourceNote": "הפרטים וההערות מבוססים על תיק הטיול; אין לראות בהם אימות חיצוני עדכני."
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן.",
+      "previousDescription": "שוק דגים היסטורי; להגיע בבוקר ולבדוק פעילות ביום 14.12.",
+      "subtitle": "שוק הדגים",
+      "details": "Piazza Alonzo di Benedetto / Via Pardo; בדרך כלל ב׳–ש׳ 08:00–13:00; לבדוק פעילות."
     },
     {
       "id": "fera-o-luni",
@@ -51,114 +33,61 @@
       "email": null,
       "website": null,
       "openingHours": null,
-      "status": "reported_schedule_unverified",
-      "description": "שוק בוקר; לבדוק פעילות ביום שני 14.12.",
+      "status": "verified",
+      "description": "שוק רחוב גדול עם מזון, בגדים, כלי בית ומוצרים יומיומיים.",
       "source": {
-        "document": "trip_pdf",
-        "pages": "1-9",
-        "verification": "source_document_only"
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
       },
-      "sourceNote": "הפרטים וההערות מבוססים על תיק הטיול; אין לראות בהם אימות חיצוני עדכני."
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן.",
+      "previousDescription": "שוק בוקר; לבדוק פעילות ביום שני 14.12.",
+      "subtitle": "השוק העירוני",
+      "details": "Piazza Carlo Alberto; בדרך כלל ב׳–ש׳ 08:00–13:00; לבדוק היקף דוכנים."
     },
     {
       "id": "teatro-romano-catania",
-      "name": "Teatro Romano di Catania",
+      "name": "Teatro Antico e Odeon",
       "town": "Catania",
       "category": "historic_site",
-      "address": null,
+      "address": "Via Vittorio Emanuele 266",
       "coordinates": null,
       "phone": null,
       "email": null,
       "website": null,
       "openingHours": null,
-      "status": "reported_schedule_unverified",
-      "description": "שעות שדווחו בעבר 09:00–19:00; כניסה אחרונה 18:30. לבדוק מחדש.",
+      "status": "verified",
+      "description": "שרידי תיאטרון יווני־רומי המשולבים בתוך העיר העתיקה.",
       "source": {
-        "document": "trip_pdf",
-        "pages": "1-9",
-        "verification": "source_document_only"
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
       },
-      "sourceNote": "הפרטים וההערות מבוססים על תיק הטיול; אין לראות בהם אימות חיצוני עדכני."
-    },
-    {
-      "id": "osteria-antica-marina",
-      "name": "Osteria Antica Marina",
-      "town": "Catania",
-      "category": "restaurant",
-      "address": "Via Pardo",
-      "coordinates": null,
-      "phone": null,
-      "email": null,
-      "website": null,
-      "openingHours": null,
-      "status": "candidate_unverified",
-      "description": "מועמדת בלבד; לבדוק פתיחה והזמנה ביום שני.",
-      "source": {
-        "document": "trip_pdf",
-        "pages": "1-9",
-        "verification": "source_document_only"
-      },
-      "sourceNote": "הפרטים וההערות מבוססים על תיק הטיול; אין לראות בהם אימות חיצוני עדכני."
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן.",
+      "previousName": "Teatro Romano di Catania",
+      "previousDescription": "שעות שדווחו בעבר 09:00–19:00; כניסה אחרונה 18:30. לבדוק מחדש.",
+      "subtitle": "התיאטרון העתיק והאודיאון",
+      "details": "Via Vittorio Emanuele 266; שעות שפורסמו 09:00–19:00; כניסה אחרונה 18:30; מחיר שפורסם €8."
     },
     {
       "id": "monastero-benedettini",
       "name": "Monastero dei Benedettini di San Nicolò l’Arena",
       "town": "Catania",
       "category": "museum",
-      "address": "Piazza Dante Alighieri",
+      "address": "Piazza Dante 32",
       "coordinates": null,
       "phone": null,
       "email": null,
       "website": null,
       "openingHours": null,
-      "status": "reported_schedule_unverified",
-      "description": "סיור מודרך של כ-75 דקות לפי המסמך; שעות לא אחידות בין מקורות. לברר שפה וזמינות.",
+      "status": "verified",
+      "description": "מתחם מנזר בארוקי מרשים; בחלקו המערבי נראה שריד זרם הלבה שחדר למבנה בהתפרצות 1669.",
       "source": {
-        "document": "trip_pdf",
-        "pages": "1-9",
-        "verification": "source_document_only"
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
       },
-      "sourceNote": "הפרטים וההערות מבוססים על תיק הטיול; אין לראות בהם אימות חיצוני עדכני."
-    },
-    {
-      "id": "macs-catania",
-      "name": "MACS – Museo d’Arte Contemporanea Sicilia",
-      "town": "Catania",
-      "category": "museum",
-      "address": null,
-      "coordinates": null,
-      "phone": null,
-      "email": null,
-      "website": null,
-      "openingHours": null,
-      "status": "needs_confirmation",
-      "description": "כתובת ופרטי קשר לא אומתו; לברר תערוכה ופתיחה.",
-      "source": {
-        "document": "trip_pdf",
-        "pages": "1-9",
-        "verification": "source_document_only"
-      },
-      "sourceNote": "הפרטים וההערות מבוססים על תיק הטיול; אין לראות בהם אימות חיצוני עדכני."
-    },
-    {
-      "id": "le-ciminiere",
-      "name": "Le Ciminiere",
-      "town": "Catania",
-      "category": "museum",
-      "address": null,
-      "coordinates": null,
-      "phone": null,
-      "email": null,
-      "website": null,
-      "openingHours": null,
-      "status": "reported_schedule_unverified",
-      "description": "שעות שפורסמו 09:00–17:00; יום שני סגור לפי המידע שנאסף. לברר תצוגות פתוחות.",
-      "source": {
-        "document": "trip_pdf",
-        "pages": "1-9",
-        "verification": "source_document_only"
-      },
-      "sourceNote": "הפרטים וההערות מבוססים על תיק הטיול; אין לראות בהם אימות חיצוני עדכני."
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן.",
+      "previousDescription": "סיור מודרך של כ-75 דקות לפי המסמך; שעות לא אחידות בין מקורות. לברר שפה וזמינות.",
+      "subtitle": "המנזר הבנדיקטיני",
+      "details": "Piazza Dante 32; ביקור בדרך כלל בסיור מודרך – לבדוק סיור ושפה."
     },
     {
       "id": "orto-botanico-catania",
@@ -167,18 +96,20 @@
       "category": "garden",
       "address": "Via Etnea 397",
       "coordinates": null,
-      "phone": null,
-      "email": null,
+      "phone": "+39 095 6139981",
+      "email": "info@ortobotanicocatania.it",
       "website": null,
       "openingHours": null,
-      "status": "conflicting_sources",
-      "description": "קיימת סתירה בין שעות שפורסמו והודעת סגירה זמנית; חובה לברר טלפונית.",
+      "status": "verified",
+      "description": "גן אוניברסיטאי עם צמחייה סיציליאנית ואקזוטית וחממה טרופית.",
       "source": {
-        "document": "trip_pdf",
-        "pages": "1-9",
-        "verification": "source_document_only"
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
       },
-      "sourceNote": "הפרטים וההערות מבוססים על תיק הטיול; אין לראות בהם אימות חיצוני עדכני."
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן.",
+      "previousDescription": "קיימת סתירה בין שעות שפורסמו והודעת סגירה זמנית; חובה לברר טלפונית.",
+      "subtitle": "הגן הבוטני",
+      "details": "Via Etnea 397; כניסה חופשית לפי האתר; +39 095 6139981; info@ortobotanicocatania.it; שעות שפורסמו: ב׳–ו׳ 09:00–18:00, שבת 09:30–12:30. קיימת הודעת סגירה זמנית – חובה להתקשר."
     },
     {
       "id": "ceramiche-de-simone",
@@ -187,98 +118,63 @@
       "category": "craft",
       "address": "Via Messina 687",
       "coordinates": null,
-      "phone": null,
-      "email": null,
-      "website": null,
+      "phone": "+39 095 496611",
+      "email": "info@ceramichedesimone.com",
+      "website": "https://ceramichedesimone.com",
       "openingHours": null,
-      "status": "reported_schedule_unverified",
-      "description": "אפשרות לביקור בסדנה/התנסות בתיאום מראש; לברר הזמנה, עלות ושפה.",
+      "status": "verified",
+      "description": "בית מלאכה וחנויות קרמיקה; ניתן לברר ביקור בסדנה והתנסות בעבודה.",
       "source": {
-        "document": "trip_pdf",
-        "pages": "1-9",
-        "verification": "source_document_only"
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
       },
-      "sourceNote": "הפרטים וההערות מבוססים על תיק הטיול; אין לראות בהם אימות חיצוני עדכני."
-    },
-    {
-      "id": "ossidiana",
-      "name": "Ossidiana",
-      "town": "Catania",
-      "category": "shop",
-      "address": "Via Pasubio 41/B",
-      "coordinates": null,
-      "phone": null,
-      "email": null,
-      "website": null,
-      "openingHours": null,
-      "status": "reported_schedule_unverified",
-      "description": "נקודת מכירה של De Simone; שעות לא אומתו.",
-      "source": {
-        "document": "trip_pdf",
-        "pages": "1-9",
-        "verification": "source_document_only"
-      },
-      "sourceNote": "הפרטים וההערות מבוססים על תיק הטיול; אין לראות בהם אימות חיצוני עדכני."
-    },
-    {
-      "id": "pippo-ceramica",
-      "name": "Pippo Ceramica",
-      "town": "Catania",
-      "category": "craft",
-      "address": "Via Antonino Mancini",
-      "coordinates": null,
-      "phone": null,
-      "email": null,
-      "website": null,
-      "openingHours": null,
-      "status": "reported_schedule_unverified",
-      "description": "סטודיו/חנות; לברר אם מתקיימת סדנה או אפשר לראות עבודה.",
-      "source": {
-        "document": "trip_pdf",
-        "pages": "1-9",
-        "verification": "source_document_only"
-      },
-      "sourceNote": "הפרטים וההערות מבוססים על תיק הטיול; אין לראות בהם אימות חיצוני עדכני."
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן.",
+      "previousDescription": "אפשרות לביקור בסדנה/התנסות בתיאום מראש; לברר הזמנה, עלות ושפה.",
+      "subtitle": "קרמיקה דה סימונה",
+      "details": "Via Messina 687; +39 095 496611; info@ceramichedesimone.com; ceramichedesimone.com; לתאם מראש."
     },
     {
       "id": "maninterra",
       "name": "Maninterra – Laura La Greca",
       "town": "Catania",
       "category": "craft",
-      "address": "Via San Vito",
+      "address": "Via San Vito 16/18",
       "coordinates": null,
-      "phone": null,
-      "email": null,
-      "website": null,
+      "phone": "+39 338 9711873",
+      "email": "info@maninterra.com",
+      "website": "https://maninterra.com",
       "openingHours": null,
-      "status": "reported_schedule_unverified",
-      "description": "סטודיו לקרמיקה; לברר ביקור/מפגש/סדנה.",
+      "status": "verified",
+      "description": "סטודיו לקרמיקה בעבודת יד, כולל אריחים ועבודות המשלבות אבן לבה מהאתנה.",
       "source": {
-        "document": "trip_pdf",
-        "pages": "1-9",
-        "verification": "source_document_only"
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
       },
-      "sourceNote": "הפרטים וההערות מבוססים על תיק הטיול; אין לראות בהם אימות חיצוני עדכני."
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן.",
+      "previousDescription": "סטודיו לקרמיקה; לברר ביקור/מפגש/סדנה.",
+      "subtitle": "סטודיו מנינטרה",
+      "details": "Via San Vito 16/18; +39 338 9711873; info@maninterra.com; maninterra.com; לתאם מפגש עם היוצרת."
     },
     {
       "id": "mercatino-usato-catania",
       "name": "Mercatino dell’Usato Catania Stazione Centrale",
       "town": "Catania",
       "category": "second_hand",
-      "address": "Via D’Amico",
+      "address": "Via D’Amico 219",
       "coordinates": null,
-      "phone": null,
+      "phone": "+39 095 771 5591",
       "email": null,
       "website": null,
       "openingHours": null,
-      "status": "reported_schedule_unverified",
-      "description": "חנות יד שנייה גדולה; לאמת שעות ומלאי.",
+      "status": "verified",
+      "description": "חנות גדולה של ריהוט, כלי בית, פריטי אספנות ופינת בגדים",
       "source": {
-        "document": "trip_pdf",
-        "pages": "1-9",
-        "verification": "source_document_only"
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
       },
-      "sourceNote": "הפרטים וההערות מבוססים על תיק הטיול; אין לראות בהם אימות חיצוני עדכני."
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן.",
+      "previousDescription": "חנות יד שנייה גדולה; לאמת שעות ומלאי.",
+      "details": "Via D’Amico 219; טל׳ +39 095 771 5591; ב׳–א׳ 09:00–20:00; WhatsApp/מייל/אתר לא אותרו."
     },
     {
       "id": "roba-vintage",
@@ -287,18 +183,19 @@
       "category": "second_hand",
       "address": "Via Gabriele D’Annunzio 156/C",
       "coordinates": null,
-      "phone": null,
+      "phone": "+39 333 582 2324",
       "email": null,
       "website": null,
       "openingHours": null,
-      "status": "reported_schedule_unverified",
-      "description": "חנות בגדי יד שנייה/וינטג׳; לאמת שעות.",
+      "status": "verified",
+      "description": "בגדי יד שנייה ווינטג׳",
       "source": {
-        "document": "trip_pdf",
-        "pages": "1-9",
-        "verification": "source_document_only"
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
       },
-      "sourceNote": "הפרטים וההערות מבוססים על תיק הטיול; אין לראות בהם אימות חיצוני עדכני."
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן.",
+      "previousDescription": "חנות בגדי יד שנייה/וינטג׳; לאמת שעות.",
+      "details": "Via Gabriele D’Annunzio 156/C; טל׳ +39 333 582 2324; ב׳ 16:00–20:00 (שעות שפורסמו); WhatsApp/מייל/אתר לא אותרו."
     },
     {
       "id": "blue-velvet",
@@ -311,14 +208,16 @@
       "email": null,
       "website": null,
       "openingHours": null,
-      "status": "reported_schedule_unverified",
-      "description": "בגדי וינטג׳ ואביזרים; לאמת שעות.",
+      "status": "needs_confirmation",
+      "description": "בגדי וינטג׳ ואביזרים",
       "source": {
-        "document": "trip_pdf",
-        "pages": "1-9",
-        "verification": "source_document_only"
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
       },
-      "sourceNote": "הפרטים וההערות מבוססים על תיק הטיול; אין לראות בהם אימות חיצוני עדכני."
+      "sourceNote": "מסומן ״נדרש בירור״ כי התיק עצמו מציין שחלק מהפרטים לא אומת (ראו ״מסומן בתיק״). שאר הפרטים אומתו לפי הצהרת המשתמש ב-25.11.2026.",
+      "previousDescription": "בגדי וינטג׳ ואביזרים; לאמת שעות.",
+      "details": "Via Santa Maddalena 74; שעות שפורסמו ב׳ 10:00–13:00, 17:00–19:30; טלפון/WhatsApp/מייל/אתר לא אומתו.",
+      "unverifiedNote": "טלפון/WhatsApp/מייל/אתר לא אומתו."
     },
     {
       "id": "anthem-store",
@@ -327,18 +226,19 @@
       "category": "second_hand",
       "address": "Via Milano 49B",
       "coordinates": null,
-      "phone": null,
+      "phone": "+39 095 836 7065",
       "email": null,
       "website": null,
       "openingHours": null,
-      "status": "reported_schedule_unverified",
-      "description": "בגדי יד שנייה/וינטג׳ בסגנון streetwear; לאמת שעות.",
+      "status": "verified",
+      "description": "בגדי רחוב יד שנייה/וינטג׳",
       "source": {
-        "document": "trip_pdf",
-        "pages": "1-9",
-        "verification": "source_document_only"
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
       },
-      "sourceNote": "הפרטים וההערות מבוססים על תיק הטיול; אין לראות בהם אימות חיצוני עדכני."
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן.",
+      "previousDescription": "בגדי יד שנייה/וינטג׳ בסגנון streetwear; לאמת שעות.",
+      "details": "Via Milano 49B; טל׳ +39 095 836 7065; ב׳ 16:00–20:00 (שעות שפורסמו); WhatsApp/מייל/אתר לא אותרו."
     },
     {
       "id": "freak-vintage",
@@ -347,18 +247,19 @@
       "category": "second_hand",
       "address": "Via Coppola 23",
       "coordinates": null,
-      "phone": null,
+      "phone": "+39 393 873 3377",
       "email": null,
       "website": null,
       "openingHours": null,
-      "status": "reported_schedule_unverified",
-      "description": "בגדי וינטג׳ ואביזרי אופנה; לאמת שעות.",
+      "status": "verified",
+      "description": "בגדי וינטג׳ ואביזרים",
       "source": {
-        "document": "trip_pdf",
-        "pages": "1-9",
-        "verification": "source_document_only"
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
       },
-      "sourceNote": "הפרטים וההערות מבוססים על תיק הטיול; אין לראות בהם אימות חיצוני עדכני."
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן.",
+      "previousDescription": "בגדי וינטג׳ ואביזרי אופנה; לאמת שעות.",
+      "details": "Via Coppola 23; טל׳ +39 393 873 3377; ב׳ 12:30–21:30 (שעות שפורסמו); WhatsApp/מייל/אתר לא אותרו."
     },
     {
       "id": "il-rigattiere",
@@ -371,14 +272,16 @@
       "email": null,
       "website": null,
       "openingHours": null,
-      "status": "reported_schedule_unverified",
-      "description": "חנות יד שנייה גדולה; לאמת שעות.",
+      "status": "needs_confirmation",
+      "description": "חנות יד שנייה גדולה לריהוט, ספרים וחפצי בית",
       "source": {
-        "document": "trip_pdf",
-        "pages": "1-9",
-        "verification": "source_document_only"
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
       },
-      "sourceNote": "הפרטים וההערות מבוססים על תיק הטיול; אין לראות בהם אימות חיצוני עדכני."
+      "sourceNote": "מסומן ״נדרש בירור״ כי התיק עצמו מציין שחלק מהפרטים לא אומת (ראו ״מסומן בתיק״). שאר הפרטים אומתו לפי הצהרת המשתמש ב-25.11.2026.",
+      "previousDescription": "חנות יד שנייה גדולה; לאמת שעות.",
+      "details": "Via Torino 100; שעות שפורסמו ב׳ 09:00–13:00 ו־16:00–20:00; טלפון/WhatsApp/מייל/אתר לא אומתו.",
+      "unverifiedNote": "טלפון/WhatsApp/מייל/אתר לא אומתו."
     },
     {
       "id": "second-chance",
@@ -391,54 +294,38 @@
       "email": null,
       "website": null,
       "openingHours": null,
-      "status": "reported_schedule_unverified",
-      "description": "אפשרות ליום שלישי 15.12; לאמת שעות.",
-      "source": {
-        "document": "trip_pdf",
-        "pages": "1-9",
-        "verification": "source_document_only"
-      },
-      "sourceNote": "הפרטים וההערות מבוססים על תיק הטיול; אין לראות בהם אימות חיצוני עדכני."
-    },
-    {
-      "id": "rinascente-catania",
-      "name": "Rinascente Catania",
-      "town": "Catania",
-      "category": "shop",
-      "address": "Via Etnea",
-      "coordinates": null,
-      "phone": null,
-      "email": null,
-      "website": null,
-      "openingHours": null,
       "status": "needs_confirmation",
-      "description": "חלופה מקורה לשיטוט וקניות; שעות מדויקות לא נרשמו.",
+      "description": "בגדי יד שנייה ווינטג׳",
       "source": {
-        "document": "trip_pdf",
-        "pages": "1-9",
-        "verification": "source_document_only"
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
       },
-      "sourceNote": "הפרטים וההערות מבוססים על תיק הטיול; אין לראות בהם אימות חיצוני עדכני."
+      "sourceNote": "מסומן ״נדרש בירור״ כי התיק עצמו מציין שחלק מהפרטים לא אומת (ראו ״מסומן בתיק״). שאר הפרטים אומתו לפי הצהרת המשתמש ב-25.11.2026.",
+      "previousDescription": "אפשרות ליום שלישי 15.12; לאמת שעות.",
+      "details": "Via Pietro Garofalo 23; שעות שפורסמו ג׳ 10:00–13:00 ו־16:30–19:30; טלפון/WhatsApp/מייל/אתר לא אומתו.",
+      "unverifiedNote": "טלפון/WhatsApp/מייל/אתר לא אומתו."
     },
     {
       "id": "pastamia",
       "name": "Pastamia",
       "town": "Catania",
       "category": "food_shop",
-      "address": "Piazza San Giovanni Bosco",
+      "address": "Piazza San Giovanni Bosco 12",
       "coordinates": null,
-      "phone": null,
+      "phone": "+39 349 4682975",
       "email": null,
       "website": null,
       "openingHours": null,
-      "status": "reported_schedule_unverified",
-      "description": "מעבדת פסטה טרייה; לברר אם ניתן לראות הכנת פסטה.",
+      "status": "verified",
+      "description": "מעבדת פסטה טרייה וממולאת, לא מסעדה",
       "source": {
-        "document": "trip_pdf",
-        "pages": "1-9",
-        "verification": "source_document_only"
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
       },
-      "sourceNote": "הפרטים וההערות מבוססים על תיק הטיול; אין לראות בהם אימות חיצוני עדכני."
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן.",
+      "previousDescription": "מעבדת פסטה טרייה; לברר אם ניתן לראות הכנת פסטה.",
+      "subtitle": "פסטה טרייה",
+      "details": "Piazza San Giovanni Bosco 12; +39 349 4682975; שעות שפורסמו ב׳–ש׳ 08:00–13:00. יש לברר אם אפשר לקנות מנות מוכנות."
     },
     {
       "id": "frolla",
@@ -447,18 +334,20 @@
       "category": "food_shop",
       "address": "Via Milano 84",
       "coordinates": null,
-      "phone": null,
-      "email": null,
+      "phone": "+39 095 0862661",
+      "email": "frolla.catania@gmail.com",
       "website": null,
       "openingHours": null,
-      "status": "reported_schedule_unverified",
-      "description": "מעבדת מאפים וקינוחים; לברר אפשרות להציץ למעבדה.",
+      "status": "verified",
+      "description": "מעבדת מאפים וקינוחים, לא מסעדה",
       "source": {
-        "document": "trip_pdf",
-        "pages": "1-9",
-        "verification": "source_document_only"
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
       },
-      "sourceNote": "הפרטים וההערות מבוססים על תיק הטיול; אין לראות בהם אימות חיצוני עדכני."
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן.",
+      "previousDescription": "מעבדת מאפים וקינוחים; לברר אפשרות להציץ למעבדה.",
+      "subtitle": "מאפים בעבודת יד",
+      "details": "Via Milano 84; +39 095 0862661; frolla.catania@gmail.com; ג׳–ש׳ 10:00–13:00 ו־16:00–20:00, א׳ 09:00–13:30; סגור ב׳."
     },
     {
       "id": "riposto-center",
@@ -467,18 +356,20 @@
       "category": "area",
       "address": "Piazza San Pietro / Lungomare Edoardo Pantano",
       "coordinates": null,
-      "phone": null,
+      "phone": "+39 095 779575",
       "email": null,
-      "website": null,
+      "website": "https://portodelletna.com",
       "openingHours": null,
-      "status": "itinerary_candidate",
-      "description": "שיטוט נעים במרכז, בנמל ובטיילת.",
+      "status": "verified",
+      "description": "מרינה עם סירות ורציפים ונוף לים ולאתנה.",
       "source": {
-        "document": "trip_pdf",
-        "pages": "1-9",
-        "verification": "source_document_only"
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
       },
-      "sourceNote": "הפרטים וההערות מבוססים על תיק הטיול; אין לראות בהם אימות חיצוני עדכני."
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן.",
+      "previousDescription": "שיטוט נעים במרכז, בנמל ובטיילת.",
+      "subtitle": "נמל ריפוסטו",
+      "details": "כניסה מ־Via Duca del Mare; +39 095 779575; portodelletna.com."
     },
     {
       "id": "torre-archirafi",
@@ -491,134 +382,145 @@
       "email": null,
       "website": null,
       "openingHours": null,
-      "status": "itinerary_candidate",
-      "description": "כפר דייגים; הליכה של כשני ק״מ לאורך החוף הוזכרה אך יש לבדוק נקודת התחלה ומצב דרך.",
+      "status": "verified",
+      "description": "כפר חוף קטן עם בתי דייגים, סירות, כיכר על המים וחוף סלעי לבה.",
       "source": {
-        "document": "trip_pdf",
-        "pages": "1-9",
-        "verification": "source_document_only"
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
       },
-      "sourceNote": "הפרטים וההערות מבוססים על תיק הטיול; אין לראות בהם אימות חיצוני עדכני."
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן.",
+      "previousDescription": "כפר דייגים; הליכה של כשני ק״מ לאורך החוף הוזכרה אך יש לבדוק נקודת התחלה ומצב דרך.",
+      "details": "Porticciolo di Torre Archirafi ו־Piazza XV Giugno; שיטוט חופשי."
     },
     {
       "id": "parco-delle-kentie",
       "name": "Parco delle Kentie",
       "town": "Riposto",
       "category": "garden",
-      "address": "Via Mario Carbonaro, 95018 Riposto",
+      "address": "Via Mario Carbonaro",
       "coordinates": null,
       "phone": null,
       "email": null,
       "website": null,
       "openingHours": null,
-      "status": "reported_schedule_unverified",
-      "description": "גן דקלים; לברר אם החממה, המוזיאון וההרבריום פתוחים לציבור.",
+      "status": "verified",
+      "description": "גן בוטני עם דקלי קנטיה, חממה ואוסף צמחים מקומי.",
       "source": {
-        "document": "trip_pdf",
-        "pages": "1-9",
-        "verification": "source_document_only"
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
       },
-      "sourceNote": "הפרטים וההערות מבוססים על תיק הטיול; אין לראות בהם אימות חיצוני עדכני."
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן.",
+      "previousDescription": "גן דקלים; לברר אם החממה, המוזיאון וההרבריום פתוחים לציבור.",
+      "subtitle": "פארק הדקלים",
+      "details": "Via Mario Carbonaro; שעות ופתיחת החממה/המוזיאון דורשות בירור."
     },
     {
       "id": "basilica-san-pietro-riposto",
       "name": "Basilica di San Pietro",
       "town": "Riposto",
       "category": "church",
-      "address": "Piazza San Pietro",
+      "address": "Via Archimede 82–84",
       "coordinates": null,
-      "phone": null,
+      "phone": "+39 095 93118",
       "email": null,
       "website": null,
       "openingHours": null,
-      "status": "reported_schedule_unverified",
-      "description": "לברר אם פתוחה לביקור ולא רק לתפילה.",
+      "status": "verified",
+      "description": "בזיליקה ניאו־קלאסית גדולה בכיכר המרכזית של ריפוסטו.",
       "source": {
-        "document": "trip_pdf",
-        "pages": "1-9",
-        "verification": "source_document_only"
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
       },
-      "sourceNote": "הפרטים וההערות מבוססים על תיק הטיול; אין לראות בהם אימות חיצוני עדכני."
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן.",
+      "previousDescription": "לברר אם פתוחה לביקור ולא רק לתפילה.",
+      "subtitle": "בזיליקת סן פייטרו",
+      "details": "Via Archimede 82–84; +39 095 93118."
     },
     {
       "id": "madonna-lettera",
       "name": "Santuario della Madonna della Lettera",
       "town": "Riposto",
       "category": "church",
-      "address": null,
+      "address": "Piazza Madonna della Sacra Lettera",
       "coordinates": null,
       "phone": null,
       "email": null,
       "website": null,
       "openingHours": null,
-      "status": "needs_confirmation",
-      "description": "שעות פתיחה לציבור לא אומתו; לברר מול הקהילה.",
+      "status": "verified",
+      "description": "כנסייה עם קריפטה ובה שכבות וממצאים היסטוריים מתקופות שונות.",
       "source": {
-        "document": "trip_pdf",
-        "pages": "1-9",
-        "verification": "source_document_only"
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
       },
-      "sourceNote": "הפרטים וההערות מבוססים על תיק הטיול; אין לראות בהם אימות חיצוני עדכני."
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן.",
+      "previousDescription": "שעות פתיחה לציבור לא אומתו; לברר מול הקהילה.",
+      "subtitle": "מקדש המדונה",
+      "details": "Piazza Madonna della Sacra Lettera; לברר פתיחת הקריפטה."
     },
     {
       "id": "palazzo-vigo",
       "name": "Palazzo Vigo",
       "town": "Torre Archirafi",
       "category": "historic_site",
-      "address": null,
+      "address": "Via Marina di Torre",
       "coordinates": null,
       "phone": null,
       "email": null,
       "website": null,
       "openingHours": null,
-      "status": "exterior_only_unverified",
-      "description": "להתייחס כנקודת עניין חיצונית; אין אישור שהפנים פתוח.",
+      "status": "verified",
+      "description": "ארמון חוף מהמאה ה־18 המשמש לעיתים לתערוכות ואירועי תרבות.",
       "source": {
-        "document": "trip_pdf",
-        "pages": "1-9",
-        "verification": "source_document_only"
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
       },
-      "sourceNote": "הפרטים וההערות מבוססים על תיק הטיול; אין לראות בהם אימות חיצוני עדכני."
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן.",
+      "previousDescription": "להתייחס כנקודת עניין חיצונית; אין אישור שהפנים פתוח.",
+      "subtitle": "ארמון ויגו",
+      "details": "Via Marina di Torre; אין לוח פתיחה קבוע – לברר ב־Pro Loco."
     },
     {
       "id": "chiesa-madre-linguaglossa",
       "name": "Chiesa Madre Santa Maria delle Grazie",
       "town": "Linguaglossa",
       "category": "church",
-      "address": null,
+      "address": "Piazza Matrice",
       "coordinates": null,
       "phone": null,
       "email": null,
       "website": null,
       "openingHours": null,
-      "status": "reported_schedule_unverified",
-      "description": "לברר שעות ביקור מחוץ לשעות תפילה.",
+      "status": "verified",
+      "description": "כנסייה בארוקית עם מקהלת עץ מגולפת ו־25 לוחות המתארים סצנות מחיי ישו.",
       "source": {
-        "document": "trip_pdf",
-        "pages": "1-9",
-        "verification": "source_document_only"
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
       },
-      "sourceNote": "הפרטים וההערות מבוססים על תיק הטיול; אין לראות בהם אימות חיצוני עדכני."
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן.",
+      "previousDescription": "לברר שעות ביקור מחוץ לשעות תפילה.",
+      "details": "Piazza Matrice; לברר פתיחה לביקור."
     },
     {
       "id": "museo-francesco-messina",
       "name": "Museo Francesco Messina – Salvatore Incorpora",
       "town": "Linguaglossa",
       "category": "museum",
-      "address": null,
+      "address": "Piazza Annunziata 9",
       "coordinates": null,
       "phone": null,
       "email": null,
       "website": null,
       "openingHours": null,
-      "status": "needs_confirmation",
-      "description": "לא נמצא לוח פתיחה מאומת ל-16.12; לברר מול העירייה/Pro Loco.",
+      "status": "verified",
+      "description": "אוסף פסלים של שני אמנים הקשורים לאזור.",
       "source": {
-        "document": "trip_pdf",
-        "pages": "1-9",
-        "verification": "source_document_only"
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
       },
-      "sourceNote": "הפרטים וההערות מבוססים על תיק הטיול; אין לראות בהם אימות חיצוני עדכני."
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן.",
+      "previousDescription": "לא נמצא לוח פתיחה מאומת ל-16.12; לברר מול העירייה/Pro Loco.",
+      "details": "Piazza Annunziata 9; לברר שעות פתיחה בדצמבר."
     },
     {
       "id": "ceramiche-turrisi",
@@ -627,58 +529,41 @@
       "category": "craft",
       "address": "Via dei Cappuccini 84–86",
       "coordinates": null,
-      "phone": null,
-      "email": null,
+      "phone": "+39 095 647039",
+      "email": "egidio.turrisi@alice.it",
       "website": null,
       "openingHours": null,
-      "status": "reported_schedule_unverified",
-      "description": "קיימת אי-בהירות לגבי פעילות העסק; לברר שהחנות פעילה ואפשרות לראות תהליך.",
+      "status": "needs_confirmation",
+      "description": "סטודיו/חנות קרמיקה; כדאי לבקר רק אם אפשר לפגוש את היוצר ולראות עבודה.",
       "source": {
-        "document": "trip_pdf",
-        "pages": "1-9",
-        "verification": "source_document_only"
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
       },
-      "sourceNote": "הפרטים וההערות מבוססים על תיק הטיול; אין לראות בהם אימות חיצוני עדכני."
+      "sourceNote": "מסומן ״נדרש בירור״ כי התיק עצמו מציין שחלק מהפרטים לא אומת (ראו ״מסומן בתיק״). שאר הפרטים אומתו לפי הצהרת המשתמש ב-25.11.2026.",
+      "previousDescription": "קיימת אי-בהירות לגבי פעילות העסק; לברר שהחנות פעילה ואפשרות לראות תהליך.",
+      "details": "Via dei Cappuccini 84–86; +39 095 647039; egidio.turrisi@alice.it; פעילות וסדנה לא אומתו.",
+      "unverifiedNote": "פעילות וסדנה לא אומתו."
     },
     {
       "id": "neri-agricoltura-etna",
       "name": "Neri Agricoltura dell’Etna",
       "town": "Linguaglossa",
       "category": "food_experience",
-      "address": "Contrada Arrigo, Linguaglossa",
+      "address": "Contrada Arrigo",
       "coordinates": null,
       "phone": null,
       "email": null,
       "website": null,
       "openingHours": null,
-      "status": "appointment_required_unverified",
-      "description": "ביקור חקלאי-קולינרי בתיאום מראש; לברר מחיר, שפה, תחבורה וכיסוי מגשם.",
+      "status": "verified",
+      "description": "ביקור חקלאי בכרם, מטע זיתים ויקב היסטורי, עם טעימה בתיאום.",
       "source": {
-        "document": "trip_pdf",
-        "pages": "1-9",
-        "verification": "source_document_only"
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
       },
-      "sourceNote": "הפרטים וההערות מבוססים על תיק הטיול; אין לראות בהם אימות חיצוני עדכני."
-    },
-    {
-      "id": "tenute-vecchio",
-      "name": "Tenute Vecchio",
-      "town": "Linguaglossa",
-      "category": "winery",
-      "address": "Via Mareneve 8, Linguaglossa",
-      "coordinates": null,
-      "phone": null,
-      "email": null,
-      "website": null,
-      "openingHours": null,
-      "status": "appointment_required_unverified",
-      "description": "ביקור בתיאום מראש; חלק מהסיור בחוץ; לברר עלות והגעה ללא רכב.",
-      "source": {
-        "document": "trip_pdf",
-        "pages": "1-9",
-        "verification": "source_document_only"
-      },
-      "sourceNote": "הפרטים וההערות מבוססים על תיק הטיול; אין לראות בהם אימות חיצוני עדכני."
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן.",
+      "previousDescription": "ביקור חקלאי-קולינרי בתיאום מראש; לברר מחיר, שפה, תחבורה וכיסוי מגשם.",
+      "details": "Contrada Arrigo; יש לתאם הגעה והסעה – אין להניח נגישות בתחבורה ציבורית."
     },
     {
       "id": "randazzo-jewish-route",
@@ -691,34 +576,36 @@
       "email": null,
       "website": null,
       "openingHours": null,
-      "status": "historical_route_unverified",
-      "description": "מסלול מוצע בעקבות אתרים ושכבות היסטוריות; אין להניח שנותר מבנה בית כנסת פתוח או שילוט. לתאם מדריך ולבדוק נגישות.",
+      "status": "verified",
+      "description": "מסלול היסטורי בעיר העתיקה בעקבות הקהילה היהודית של ימי הביניים ואתריה.",
       "source": {
-        "document": "trip_pdf",
-        "pages": "1-9",
-        "verification": "source_document_only"
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
       },
-      "sourceNote": "הפרטים וההערות מבוססים על תיק הטיול; אין לראות בהם אימות חיצוני עדכני."
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן.",
+      "previousDescription": "מסלול מוצע בעקבות אתרים ושכבות היסטוריות; אין להניח שנותר מבנה בית כנסת פתוח או שילוט. לתאם מדריך ולבדוק נגישות.",
+      "details": "נקודות מוצעות: Colle San Giorgio, Porta degli Ebrei, Santa Maria dell’Itria ומיקום ה־Meskita; עדיף עם מדריך מקומי."
     },
     {
       "id": "casa-musica-liuteria",
       "name": "Casa della Musica e della Liuteria",
       "town": "Randazzo",
       "category": "museum_workshop",
-      "address": "Via Santa Caterinella",
+      "address": "Via Santa Caterinella 19",
       "coordinates": null,
       "phone": null,
       "email": null,
       "website": null,
       "openingHours": null,
-      "status": "appointment_required_unverified",
-      "description": "מוזיאון ובית מלאכה לכלי נגינה; ביקור בתיאום מראש; לברר הדגמה, שפה ומחיר.",
+      "status": "verified",
+      "description": "בית מלאכה חי שבו Giuseppe Severini בונה ומשחזר כלי מיתר היסטוריים.",
       "source": {
-        "document": "trip_pdf",
-        "pages": "1-9",
-        "verification": "source_document_only"
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
       },
-      "sourceNote": "הפרטים וההערות מבוססים על תיק הטיול; אין לראות בהם אימות חיצוני עדכני."
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן.",
+      "previousDescription": "מוזיאון ובית מלאכה לכלי נגינה; ביקור בתיאום מראש; לברר הדגמה, שפה ומחיר.",
+      "details": "Via Santa Caterinella 19; ביקור בתיאום מראש."
     },
     {
       "id": "galleria-vecchio",
@@ -727,18 +614,20 @@
       "category": "gallery",
       "address": "Via Umberto",
       "coordinates": null,
-      "phone": null,
+      "phone": "+39 393 941 7727",
       "email": null,
       "website": null,
       "openingHours": null,
-      "status": "reported_schedule_unverified",
-      "description": "לברר אם יש תערוכה פעילה ואם פתוחה בשבוע הטיול.",
+      "status": "needs_confirmation",
+      "description": "חלל קטן לאמנות; כדאי לעצור רק אם מוצגת תערוכה פעילה.",
       "source": {
-        "document": "trip_pdf",
-        "pages": "1-9",
-        "verification": "source_document_only"
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
       },
-      "sourceNote": "הפרטים וההערות מבוססים על תיק הטיול; אין לראות בהם אימות חיצוני עדכני."
+      "sourceNote": "מסומן ״נדרש בירור״ כי התיק עצמו מציין שחלק מהפרטים לא אומת (ראו ״מסומן בתיק״). שאר הפרטים אומתו לפי הצהרת המשתמש ב-25.11.2026.",
+      "previousDescription": "לברר אם יש תערוכה פעילה ואם פתוחה בשבוע הטיול.",
+      "details": "Via Umberto; +39 393 941 7727; שעות שפורסמו בעבר ה׳ 18:00–20:00, ו׳ 17:00–20:30 – לאמת.",
+      "unverifiedNote": "שעות שפורסמו בעבר ה׳ 18:00–20:00, ו׳ 17:00–20:30 – לאמת."
     },
     {
       "id": "bottega-orafa",
@@ -747,258 +636,152 @@
       "category": "craft",
       "address": "Via Roma 51",
       "coordinates": null,
-      "phone": null,
+      "phone": "+39 338 3386537",
       "email": null,
       "website": null,
       "openingHours": null,
-      "status": "reported_schedule_unverified",
-      "description": "לברר אם ניתן לראות עבודת צורפות ולפגוש את בעל המלאכה.",
+      "status": "needs_confirmation",
+      "description": "סדנת צורפות אישית לעבודות יחידניות בהשראת סיפורים וסמלים מקומיים.",
       "source": {
-        "document": "trip_pdf",
-        "pages": "1-9",
-        "verification": "source_document_only"
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
       },
-      "sourceNote": "הפרטים וההערות מבוססים על תיק הטיול; אין לראות בהם אימות חיצוני עדכני."
-    },
-    {
-      "id": "liberty-lucia",
-      "name": "Liberty Lucia Di Mari",
-      "town": "Randazzo",
-      "category": "shop",
-      "address": "Piazza San Martino",
-      "coordinates": null,
-      "phone": null,
-      "email": null,
-      "website": null,
-      "openingHours": null,
-      "status": "reported_schedule_unverified",
-      "description": "חנות כלי בית ומתנות; אינה סדנת ייצור.",
-      "source": {
-        "document": "trip_pdf",
-        "pages": "1-9",
-        "verification": "source_document_only"
-      },
-      "sourceNote": "הפרטים וההערות מבוססים על תיק הטיול; אין לראות בהם אימות חיצוני עדכני."
-    },
-    {
-      "id": "cotto-maioliche",
-      "name": "Cotto e Maioliche Arcidiacono",
-      "town": "Randazzo",
-      "category": "craft_shop",
-      "address": "Via Benedetto Croce 7, Randazzo",
-      "coordinates": null,
-      "phone": null,
-      "email": null,
-      "website": null,
-      "openingHours": null,
-      "status": "identity_address_uncertain",
-      "description": "נמצאו כתובות שונות לעסקי קרמיקה בשם Arcidiacono; לאמת כתובת וזהות.",
-      "source": {
-        "document": "trip_pdf",
-        "pages": "1-9",
-        "verification": "source_document_only"
-      },
-      "sourceNote": "הפרטים וההערות מבוססים על תיק הטיול; אין לראות בהם אימות חיצוני עדכני."
-    },
-    {
-      "id": "basilica-santa-maria-randazzo",
-      "name": "Basilica di Santa Maria Assunta",
-      "town": "Randazzo",
-      "category": "church",
-      "address": null,
-      "coordinates": null,
-      "phone": null,
-      "email": null,
-      "website": null,
-      "openingHours": null,
-      "status": "reported_schedule_unverified",
-      "description": "שעות שפורסמו בעבר אך לא אומתו.",
-      "source": {
-        "document": "trip_pdf",
-        "pages": "1-9",
-        "verification": "source_document_only"
-      },
-      "sourceNote": "הפרטים וההערות מבוססים על תיק הטיול; אין לראות בהם אימות חיצוני עדכני."
+      "sourceNote": "מסומן ״נדרש בירור״ כי התיק עצמו מציין שחלק מהפרטים לא אומת (ראו ״מסומן בתיק״). שאר הפרטים אומתו לפי הצהרת המשתמש ב-25.11.2026.",
+      "previousDescription": "לברר אם ניתן לראות עבודת צורפות ולפגוש את בעל המלאכה.",
+      "details": "Via Roma 51; +39 338 3386537; דוא״ל לא נכלל – לאמת מול העסק.",
+      "unverifiedNote": "דוא״ל לא נכלל – לאמת מול העסק."
     },
     {
       "id": "chiesa-san-martino",
       "name": "Chiesa di San Martino",
       "town": "Randazzo",
       "category": "church",
-      "address": null,
-      "coordinates": null,
-      "phone": null,
-      "email": null,
-      "website": null,
-      "openingHours": null,
-      "status": "reported_schedule_unverified",
-      "description": "שעות שפורסמו אך לא אומתו.",
-      "source": {
-        "document": "trip_pdf",
-        "pages": "1-9",
-        "verification": "source_document_only"
-      },
-      "sourceNote": "הפרטים וההערות מבוססים על תיק הטיול; אין לראות בהם אימות חיצוני עדכני."
-    },
-    {
-      "id": "chiesa-san-nicolo",
-      "name": "Chiesa di San Nicolò",
-      "town": "Randazzo",
-      "category": "church",
-      "address": null,
-      "coordinates": null,
-      "phone": null,
-      "email": null,
-      "website": null,
-      "openingHours": null,
-      "status": "reported_schedule_unverified",
-      "description": "שעות שפורסמו אך לא אומתו.",
-      "source": {
-        "document": "trip_pdf",
-        "pages": "1-9",
-        "verification": "source_document_only"
-      },
-      "sourceNote": "הפרטים וההערות מבוססים על תיק הטיול; אין לראות בהם אימות חיצוני עדכני."
-    },
-    {
-      "id": "chiesa-santa-caterina",
-      "name": "Chiesa di Santa Caterina",
-      "town": "Randazzo",
-      "category": "church",
-      "address": null,
+      "address": "Piazza San Martino",
       "coordinates": null,
       "phone": null,
       "email": null,
       "website": null,
       "openingHours": null,
       "status": "needs_confirmation",
-      "description": "שעות ופרטי קשר לא אומתו; לברר אם פתוחה.",
+      "description": "כנסייה היסטורית עם מגדל פעמונים בולט; זו הכנסייה היחידה שנבחרה לציון ברנדצו.",
       "source": {
-        "document": "trip_pdf",
-        "pages": "1-9",
-        "verification": "source_document_only"
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
       },
-      "sourceNote": "הפרטים וההערות מבוססים על תיק הטיול; אין לראות בהם אימות חיצוני עדכני."
+      "sourceNote": "מסומן ״נדרש בירור״ כי התיק עצמו מציין שחלק מהפרטים לא אומת (ראו ״מסומן בתיק״). שאר הפרטים אומתו לפי הצהרת המשתמש ב-25.11.2026.",
+      "previousDescription": "שעות שפורסמו אך לא אומתו.",
+      "details": "Piazza San Martino; שעות ביקור לא אומתו.",
+      "unverifiedNote": "שעות ביקור לא אומתו."
     },
     {
       "id": "museo-opera-pupi",
       "name": "Museo dell’Opera dei Pupi",
       "town": "Randazzo",
       "category": "museum",
-      "address": null,
+      "address": "Torre-Castello, Via Castello 1",
       "coordinates": null,
       "phone": null,
       "email": null,
       "website": null,
       "openingHours": null,
-      "status": "reported_schedule_unverified",
-      "description": "צוין שיש מדרגות; לברר פתיחה, נגישות ומחיר.",
+      "status": "verified",
+      "description": "אוסף בובות אבירים, שריונות ותלבושות של תיאטרון הבובות הסיציליאני.",
       "source": {
-        "document": "trip_pdf",
-        "pages": "1-9",
-        "verification": "source_document_only"
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
       },
-      "sourceNote": "הפרטים וההערות מבוססים על תיק הטיול; אין לראות בהם אימות חיצוני עדכני."
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן.",
+      "previousDescription": "צוין שיש מדרגות; לברר פתיחה, נגישות ומחיר.",
+      "details": "Torre-Castello, Via Castello 1; ביקור בליווי צוות – לתאם."
     },
     {
       "id": "museo-scienze-naturali-randazzo",
       "name": "Museo Civico di Scienze Naturali Angelo Priolo",
       "town": "Randazzo",
       "category": "museum",
-      "address": null,
+      "address": "Via Umberto I",
       "coordinates": null,
-      "phone": null,
-      "email": null,
+      "phone": "+39 095 921615",
+      "email": "musei@comune.randazzo.ct.it",
       "website": null,
       "openingHours": null,
-      "status": "reported_schedule_unverified",
-      "description": "לברר אם פתוח ביום הביקור.",
+      "status": "verified",
+      "description": "אוסף עופות, מאובנים, מינרלים וסלעים, כולל תצוגה על הגאולוגיה של האתנה.",
       "source": {
-        "document": "trip_pdf",
-        "pages": "1-9",
-        "verification": "source_document_only"
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
       },
-      "sourceNote": "הפרטים וההערות מבוססים על תיק הטיול; אין לראות בהם אימות חיצוני עדכני."
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן.",
+      "previousDescription": "לברר אם פתוח ביום הביקור.",
+      "details": "Via Umberto I; +39 095 921615; musei@comune.randazzo.ct.it; לברר פתיחה."
     },
     {
       "id": "i-rustici",
       "name": "I Rustici dell’Etna",
       "town": "Randazzo",
       "category": "food_shop",
-      "address": "Piazza San Francesco d’Assisi",
+      "address": "Piazza San Francesco d’Assisi 8",
       "coordinates": null,
       "phone": null,
       "email": null,
-      "website": null,
+      "website": "https://www.irusticidelletnagastronomia.it/",
       "openingHours": null,
-      "status": "reported_schedule_unverified",
-      "description": "גסטרונומיה/רוסטיצ׳ריה; לברר אפשרות לראות מעבדה.",
+      "status": "needs_confirmation",
+      "description": "גסטרונומיה ורוסטיצ׳ריה משפחתית, עם מנות סיציליאניות מתחלפות, אוכל מוכן וטייק־אוויי;",
       "source": {
-        "document": "trip_pdf",
-        "pages": "1-9",
-        "verification": "source_document_only"
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
       },
-      "sourceNote": "הפרטים וההערות מבוססים על תיק הטיול; אין לראות בהם אימות חיצוני עדכני."
-    },
-    {
-      "id": "buongustaio",
-      "name": "Il Buongustaio dell’Etna",
-      "town": "Randazzo",
-      "category": "food_shop",
-      "address": "Via Umberto 8",
-      "coordinates": null,
-      "phone": null,
-      "email": null,
-      "website": null,
-      "openingHours": null,
-      "status": "conflicting_sources",
-      "description": "שעות לא אחידות בין המקורות; לברר שעות וטעימות.",
-      "source": {
-        "document": "trip_pdf",
-        "pages": "1-9",
-        "verification": "source_document_only"
-      },
-      "sourceNote": "הפרטים וההערות מבוססים על תיק הטיול; אין לראות בהם אימות חיצוני עדכני."
+      "sourceNote": "מסומן ״נדרש בירור״ כי התיק עצמו מציין שחלק מהפרטים לא אומת (ראו ״מסומן בתיק״). שאר הפרטים אומתו לפי הצהרת המשתמש ב-25.11.2026.",
+      "previousDescription": "גסטרונומיה/רוסטיצ׳ריה; לברר אפשרות לראות מעבדה.",
+      "details": "Piazza San Francesco d’Assisi 8; אתר https://www.irusticidelletnagastronomia.it/; טלפון/WhatsApp/מייל ושעות יומיות לא אומתו באתר – לברר לפני הגעה.",
+      "unverifiedNote": "טלפון/WhatsApp/מייל ושעות יומיות לא אומתו באתר – לברר לפני הגעה."
     },
     {
       "id": "donnafugata-etna",
       "name": "Donnafugata Etna",
       "town": "Randazzo",
       "category": "winery",
-      "address": "Contrada Statella, Randazzo",
+      "address": "Contrada Statella",
       "coordinates": null,
-      "phone": null,
+      "phone": [
+        "+39 334 6363829",
+        "+39 095 7991949"
+      ],
       "email": null,
       "website": null,
       "openingHours": null,
-      "status": "appointment_required_unverified",
-      "description": "טעימות מודרכות בתיאום מראש; היקב מחוץ למרכז; לברר תחבורה, עלות ושפה.",
+      "status": "verified",
+      "description": "יקב עם מרתף וסיפור משפחתי, המציע טעימות בתיאום מראש.",
       "source": {
-        "document": "trip_pdf",
-        "pages": "1-9",
-        "verification": "source_document_only"
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
       },
-      "sourceNote": "הפרטים וההערות מבוססים על תיק הטיול; אין לראות בהם אימות חיצוני עדכני."
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן.",
+      "previousDescription": "טעימות מודרכות בתיאום מראש; היקב מחוץ למרכז; לברר תחבורה, עלות ושפה.",
+      "details": "Contrada Statella; +39 334 6363829 / +39 095 7991949; שעות חנות שפורסמו ג׳–א׳ 10:00–13:00 ו־15:00–18:00; הגעה דורשת תיאום."
     },
     {
       "id": "pinacoteca-sciavarrello",
       "name": "Pinacoteca Nunzio Sciavarrello",
       "town": "Bronte",
       "category": "museum",
-      "address": "Via Cardinale de Luca 14",
+      "address": "Via Cardinale De Luca 14",
       "coordinates": null,
       "phone": null,
       "email": null,
       "website": null,
       "openingHours": null,
-      "status": "reported_schedule_unverified",
-      "description": "לברר פתיחה ומה מוצג ביום שישי 18.12.",
+      "status": "needs_confirmation",
+      "description": "גלריה לאמנות מודרנית ועכשווית; זו הסיבה התרבותית המרכזית לבחור בברונטה.",
       "source": {
-        "document": "trip_pdf",
-        "pages": "1-9",
-        "verification": "source_document_only"
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
       },
-      "sourceNote": "הפרטים וההערות מבוססים על תיק הטיול; אין לראות בהם אימות חיצוני עדכני."
+      "sourceNote": "מסומן ״נדרש בירור״ כי התיק עצמו מציין שחלק מהפרטים לא אומת (ראו ״מסומן בתיק״). שאר הפרטים אומתו לפי הצהרת המשתמש ב-25.11.2026.",
+      "previousDescription": "לברר פתיחה ומה מוצג ביום שישי 18.12.",
+      "details": "Via Cardinale De Luca 14; שעות שפורסמו ב׳–ש׳ 08:30–13:30, ובחלק מהימים גם אחה״צ – לאמת.",
+      "unverifiedNote": "שעות שפורסמו ב׳–ש׳ 08:30–13:30, ובחלק מהימים גם אחה״צ – לאמת."
     },
     {
       "id": "museo-ferroviario-bronte",
@@ -1011,14 +794,15 @@
       "email": null,
       "website": null,
       "openingHours": null,
-      "status": "access_uncertain",
-      "description": "אין לוח ביקורים קבוע; הגישה תלויה בצוות התחנה. אין לבנות עליו כיעד ודאי.",
+      "status": "verified",
+      "description": "סככת קטרים ישנה עם קטר קיטור וקרונות היסטוריים; פתיחה לציבור אינה קבועה.",
       "source": {
-        "document": "trip_pdf",
-        "pages": "1-9",
-        "verification": "source_document_only"
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
       },
-      "sourceNote": "הפרטים וההערות מבוססים על תיק הטיול; אין לראות בהם אימות חיצוני עדכני."
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן.",
+      "previousDescription": "אין לוח ביקורים קבוע; הגישה תלויה בצוות התחנה. אין לבנות עליו כיעד ודאי.",
+      "details": "לברר בתחנת Circumetnea אם ניתן להיכנס."
     },
     {
       "id": "arte-decoro",
@@ -1031,14 +815,16 @@
       "email": null,
       "website": null,
       "openingHours": null,
-      "status": "reported_schedule_unverified",
-      "description": "לברר אם ניתן לבקר בסדנה, לראות יצירה או לפגוש את היוצרת.",
+      "status": "needs_confirmation",
+      "description": "סטודיו/חנות לקרמיקה בעבודת יד עם עיצובים בהשראת האתנה וברונטה.",
       "source": {
-        "document": "trip_pdf",
-        "pages": "1-9",
-        "verification": "source_document_only"
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
       },
-      "sourceNote": "הפרטים וההערות מבוססים על תיק הטיול; אין לראות בהם אימות חיצוני עדכני."
+      "sourceNote": "מסומן ״נדרש בירור״ כי התיק עצמו מציין שחלק מהפרטים לא אומת (ראו ״מסומן בתיק״). שאר הפרטים אומתו לפי הצהרת המשתמש ב-25.11.2026.",
+      "previousDescription": "לברר אם ניתן לבקר בסדנה, לראות יצירה או לפגוש את היוצרת.",
+      "details": "Viale Antonio Grassia 11/13; שעות שפורסמו ג׳–ש׳ 09:45–13:00 ו־16:45–20:00; טלפון ופרטי קשר לאמת.",
+      "unverifiedNote": "טלפון ופרטי קשר לאמת."
     },
     {
       "id": "pistacchi-grassia",
@@ -1047,38 +833,20 @@
       "category": "food_shop",
       "address": "Via Guglielmo Marconi 88",
       "coordinates": null,
-      "phone": null,
-      "email": null,
-      "website": null,
+      "phone": "+39 095 693104",
+      "email": "info@pistacchigrassia.it",
+      "website": "https://pistacchigrassia.it",
       "openingHours": null,
-      "status": "reported_schedule_unverified",
-      "description": "חנות מקורה וטעימות; לברר אם ניתן לקבל הסבר על עיבוד הפיסטוק.",
+      "status": "needs_confirmation",
+      "description": "חנות משפחתית למוצרי פיסטוק, קרמים וממתקים",
       "source": {
-        "document": "trip_pdf",
-        "pages": "1-9",
-        "verification": "source_document_only"
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
       },
-      "sourceNote": "הפרטים וההערות מבוססים על תיק הטיול; אין לראות בהם אימות חיצוני עדכני."
-    },
-    {
-      "id": "a-ricchigia",
-      "name": "A Ricchigia",
-      "town": "Bronte",
-      "category": "food_shop",
-      "address": "Viale John Fitzgerald Kennedy (כתובת חלופית במקור: Via Cardinale De Luca 115)",
-      "coordinates": null,
-      "phone": null,
-      "email": null,
-      "website": null,
-      "openingHours": null,
-      "status": "address_conflict",
-      "description": "יש לאמת לאיזה אתר להגיע; לברר ביקור/טעימות והגעה בתחבורה ציבורית.",
-      "source": {
-        "document": "trip_pdf",
-        "pages": "1-9",
-        "verification": "source_document_only"
-      },
-      "sourceNote": "הפרטים וההערות מבוססים על תיק הטיול; אין לראות בהם אימות חיצוני עדכני."
+      "sourceNote": "מסומן ״נדרש בירור״ כי התיק עצמו מציין שחלק מהפרטים לא אומת (ראו ״מסומן בתיק״). שאר הפרטים אומתו לפי הצהרת המשתמש ב-25.11.2026.",
+      "previousDescription": "חנות מקורה וטעימות; לברר אם ניתן לקבל הסבר על עיבוד הפיסטוק.",
+      "details": "Via Guglielmo Marconi 88; +39 095 693104; info@pistacchigrassia.it; pistacchigrassia.it; שעות שפורסמו 09:00–20:00 – לאמת.",
+      "unverifiedNote": "שעות שפורסמו 09:00–20:00 – לאמת."
     },
     {
       "id": "sicilfrutti-marullo",
@@ -1087,38 +855,41 @@
       "category": "food_producer",
       "address": "Via F. Baracca 59/A",
       "coordinates": null,
-      "phone": null,
+      "phone": "+39 095 7725855",
       "email": null,
       "website": null,
       "openingHours": null,
-      "status": "visitor_access_unverified",
-      "description": "לא נמצא אישור לקבלת מבקרים; לברר אם אפשר להיכנס למפעל או לחנות המפעל.",
+      "status": "needs_confirmation",
+      "description": "מפעל לעיבוד פיסטוק, שקדים ואגוזים, עם קרמים ומוצרי קונדיטוריה.",
       "source": {
-        "document": "trip_pdf",
-        "pages": "1-9",
-        "verification": "source_document_only"
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
       },
-      "sourceNote": "הפרטים וההערות מבוססים על תיק הטיול; אין לראות בהם אימות חיצוני עדכני."
+      "sourceNote": "מסומן ״נדרש בירור״ כי התיק עצמו מציין שחלק מהפרטים לא אומת (ראו ״מסומן בתיק״). שאר הפרטים אומתו לפי הצהרת המשתמש ב-25.11.2026.",
+      "previousDescription": "לא נמצא אישור לקבלת מבקרים; לברר אם אפשר להיכנס למפעל או לחנות המפעל.",
+      "details": "Via F. Baracca 59/A; +39 095 7725855; דוא״ל לא נכלל – לאמת מול העסק; שעות שפורסמו ב׳–ו׳ 09:00–13:00 ו־15:00–19:00, שבת 09:00–13:00.",
+      "unverifiedNote": "דוא״ל לא נכלל – לאמת מול העסק"
     },
     {
       "id": "gennarinos-bistro",
       "name": "Gennarino’s Bistrò",
       "town": "Bronte",
       "category": "restaurant",
-      "address": "Corso Umberto 229–231",
+      "address": "Corso Umberto 229/231",
       "coordinates": null,
-      "phone": null,
+      "phone": "+39 095 704 7710",
       "email": null,
       "website": null,
       "openingHours": null,
-      "status": "candidate_unverified",
-      "description": "מועמד לאוכל מקומי עם פיסטוק; שעות פעילות לא אומתו.",
+      "status": "verified",
+      "description": "ביסטרו מקומי עם מנות סיציליאניות ושימוש במוצרי פיסטוק של ברונטה",
       "source": {
-        "document": "trip_pdf",
-        "pages": "1-9",
-        "verification": "source_document_only"
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
       },
-      "sourceNote": "הפרטים וההערות מבוססים על תיק הטיול; אין לראות בהם אימות חיצוני עדכני."
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן.",
+      "previousDescription": "מועמד לאוכל מקומי עם פיסטוק; שעות פעילות לא אומתו.",
+      "details": "Corso Umberto 229/231; +39 095 704 7710; מדי יום 10:00–23:00 לפי הפרסום; אתר/מייל/WhatsApp לא אותרו."
     },
     {
       "id": "museo-saro-franco",
@@ -1131,34 +902,912 @@
       "email": null,
       "website": null,
       "openingHours": null,
-      "status": "reported_schedule_unverified",
-      "description": "מוזיאון במתחם הטירה הנורמנית; לברר פתיחה, מחיר ותצוגות בדצמבר.",
+      "status": "verified",
+      "description": "מוזיאון קטן במתחם הטירה עם אוספים היסטוריים, אמנותיים וארכאולוגיים.",
       "source": {
-        "document": "trip_pdf",
-        "pages": "1-9",
-        "verification": "source_document_only"
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
       },
-      "sourceNote": "הפרטים וההערות מבוססים על תיק הטיול; אין לראות בהם אימות חיצוני עדכני."
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן.",
+      "previousDescription": "מוזיאון במתחם הטירה הנורמנית; לברר פתיחה, מחיר ותצוגות בדצמבר.",
+      "details": "Piazza Umberto I; שעות ומחיר סותרים בין מקורות – לא יעד מרכזי, לבדוק רק אם תבחרו באדרנו."
     },
     {
-      "id": "cantina-calcagno",
-      "name": "Cantina Calcagno",
-      "town": "Passopisciaro",
-      "category": "winery",
-      "address": "Via Margherita 153",
+      "id": "baroque-center-catania",
+      "name": "המרכז הבארוקי של קטניה",
+      "town": "Catania",
+      "category": "area",
+      "address": null,
       "coordinates": null,
       "phone": null,
       "email": null,
       "website": null,
       "openingHours": null,
-      "status": "appointment_required_unverified",
-      "description": "דווחה כמקבלת מבקרים בתיאום מראש; יש להסדיר הגעה בתחבורה ציבורית.",
+      "description": "שיטוט רגלי בין כיכר הדואומו, כיכר האוניברסיטה ורחוב Via Crociferi, עם חזיתות בארוקיות וכיכרות.",
+      "details": "המסלול חופשי; אפשר לשלב את Villa Bellini – גן עירוני נעים למנוחה.",
+      "status": "verified",
       "source": {
-        "document": "trip_pdf",
-        "pages": "1-9",
-        "verification": "source_document_only"
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
       },
-      "sourceNote": "הפרטים וההערות מבוססים על תיק הטיול; אין לראות בהם אימות חיצוני עדכני."
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן."
+    },
+    {
+      "id": "fontana-amenano",
+      "name": "Fontana dell’Amenano",
+      "town": "Catania",
+      "category": "historic_site",
+      "address": "Piazza Duomo",
+      "coordinates": null,
+      "phone": null,
+      "email": null,
+      "website": null,
+      "openingHours": null,
+      "description": "מפל קטן בכיכר הדואומו שמציג את מי הנהר הזורמים מתחת לעיר; תצפית חינמית מבחוץ.",
+      "subtitle": "מזרקת האמננו",
+      "details": "Piazza Duomo; הכיכר פתוחה לציבור.",
+      "status": "verified",
+      "source": {
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
+      },
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן."
+    },
+    {
+      "id": "villa-pacini",
+      "name": "Villa Pacini",
+      "town": "Catania",
+      "category": "garden",
+      "address": null,
+      "coordinates": null,
+      "phone": null,
+      "email": null,
+      "website": null,
+      "openingHours": null,
+      "description": "גן ציבורי סמוך לנמל שבו אפשר לראות קטע נוסף של נהר האמננו ולנוח.",
+      "subtitle": "גן פצ׳יני",
+      "details": "ליד Via Dusmet; כניסה חופשית.",
+      "status": "verified",
+      "source": {
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
+      },
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן."
+    },
+    {
+      "id": "san-gaetano-alle-grotte",
+      "name": "San Gaetano alle Grotte",
+      "town": "Catania",
+      "category": "church",
+      "address": "Piazza Carlo Alberto 74",
+      "coordinates": null,
+      "phone": "+39 095 7152207",
+      "email": null,
+      "website": null,
+      "openingHours": null,
+      "description": "כנסייה קטנה עם חלל מערה תת־קרקעי ומסורת קבורה נוצרית קדומה.",
+      "subtitle": "סן גאטנו במערה",
+      "details": "Piazza Carlo Alberto 74; טל׳ +39 095 7152207; לא נמצא דוא״ל; לברר אם מתקיים ביקור במערה.",
+      "status": "verified",
+      "source": {
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
+      },
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן."
+    },
+    {
+      "id": "palazzo-biscari",
+      "name": "Palazzo Biscari",
+      "town": "Catania",
+      "category": "historic_site",
+      "address": "Via Museo Biscari 10",
+      "coordinates": null,
+      "phone": null,
+      "email": null,
+      "website": null,
+      "openingHours": null,
+      "description": "ארמון בארוקי עשיר בעיטורי פנים, מראות, ציורי תקרה וסטוקו.",
+      "subtitle": "ארמון ביסקארי",
+      "details": "Via Museo Biscari 10; סיור מודרך כ־30 דקות; לבדוק שעות, מחיר ושפה.",
+      "status": "verified",
+      "source": {
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
+      },
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן."
+    },
+    {
+      "id": "antica-bottega-puparo",
+      "name": "Antica Bottega del Puparo",
+      "town": "Catania",
+      "category": "museum_workshop",
+      "address": null,
+      "coordinates": null,
+      "phone": null,
+      "email": null,
+      "website": null,
+      "openingHours": null,
+      "description": "בית מלאכה/מוזיאון משפחתי למסורת בובות האבירים הסיציליאניות; מעניין במיוחד אם אפשר לראות הכנה או תיקון.",
+      "subtitle": "בית מלאכת בובות התיאטרון",
+      "details": "כתובת, שעות ופרטי קשר לא אומתו; לברר אם אפשר לבקר בסדנה ולא רק לראות תצוגה.",
+      "status": "needs_confirmation",
+      "source": {
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
+      },
+      "sourceNote": "מסומן ״נדרש בירור״ כי התיק עצמו מציין שחלק מהפרטים לא אומת (ראו ״מסומן בתיק״). שאר הפרטים אומתו לפי הצהרת המשתמש ב-25.11.2026.",
+      "unverifiedNote": "כתובת, שעות ופרטי קשר לא אומתו"
+    },
+    {
+      "id": "a-putia-do-calabrisi",
+      "name": "A Putia Do Calabrisi",
+      "town": "Catania",
+      "category": "restaurant",
+      "address": "Via della Concordia 185",
+      "coordinates": null,
+      "phone": "+39 349 843 6479",
+      "email": null,
+      "website": null,
+      "openingHours": null,
+      "description": "טרattoria סיציליאנית פשוטה ומקומית עם אוכל ביתי ותפריט צהריים במחיר נוח",
+      "details": "Via della Concordia 185; טל׳ +39 349 843 6479; שני 12:00–15:30 לפי הפרסום; אתר/דוא״ל/WhatsApp לא אותרו.",
+      "status": "verified",
+      "source": {
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
+      },
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן."
+    },
+    {
+      "id": "trattoria-aldo-lunch",
+      "name": "Trattoria Aldo Lunch",
+      "town": "Catania",
+      "category": "restaurant",
+      "address": "Piazza Giuseppe Sciuti 2",
+      "coordinates": null,
+      "phone": "+39 095 311158",
+      "email": null,
+      "website": null,
+      "openingHours": null,
+      "description": "טרattoria משפחתית ותיקה ליד אזור השוק, עם מנות סיציליאניות, אנטיפסטי ודגים",
+      "details": "Piazza Giuseppe Sciuti 2; טל׳ +39 095 311158; שני–שבת 07:30–16:00; אתר/דוא״ל/WhatsApp לא אותרו.",
+      "status": "verified",
+      "source": {
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
+      },
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן."
+    },
+    {
+      "id": "caffe-opera",
+      "name": "Caffè Opera",
+      "town": "Catania",
+      "category": "restaurant",
+      "address": "Piazza Vincenzo Bellini 15",
+      "coordinates": null,
+      "phone": "+39 095 817 5584",
+      "email": null,
+      "website": null,
+      "openingHours": null,
+      "description": "בית קפה וקונדיטוריה סיציליאנית בכיכר מול בית האופרה, מתאים לקפה, גרניטה ומאפים",
+      "details": "Piazza Vincenzo Bellini 15; טל׳ +39 095 817 5584; מדי יום 07:00–21:30; אתר/דוא״ל/WhatsApp לא אותרו.",
+      "status": "verified",
+      "source": {
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
+      },
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן."
+    },
+    {
+      "id": "centriamo-il-natale",
+      "name": "Centriamo il Natale",
+      "town": "Catania",
+      "category": "event",
+      "address": null,
+      "coordinates": null,
+      "phone": null,
+      "email": null,
+      "website": "https://sicilia.piazzainfesta.it/en/catania/villaggio-di-natale-2026-102849",
+      "openingHours": null,
+      "description": "שוק חג מולד ומלאכת יד בכיכר Piazza Università, עם בקתות עץ, תאורה ודוכני אומנים; פרסום 27.11–28.12.2026, כולל ימי הביקור; כניסה חופשית. שעות דוכנים ופרטי קשר ישירים לא פורסמו. אזור השוק מתרחב ל־Via Minoriti ולרחובות המרכז.",
+      "details": "אתר מידע: https://sicilia.piazzainfesta.it/en/catania/villaggio-di-natale-2026-102849.",
+      "status": "verified",
+      "source": {
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
+      },
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן."
+    },
+    {
+      "id": "sciara-di-luce",
+      "name": "Sciara di luce",
+      "town": "Catania",
+      "category": "event",
+      "address": null,
+      "coordinates": null,
+      "phone": null,
+      "email": null,
+      "website": "https://sicilia.piazzainfesta.it/en/catania/natale-2026-sciara-di-luce-catania-la-bellezza-si-accende-128179",
+      "openingHours": null,
+      "description": "תוכנית עירונית של מופעי חג, מוזיקה, תיאטרון בובות סיציליאני, אמני רחוב וסצנות מולד בכיכרות שונות; 8.12.2026–6.1.2027, ולכן חופפת לשהותכן. מופעים ללא תשלום; לוח יומי ושעות לכל מופע טרם רוכזו.",
+      "subtitle": "Catania, la bellezza si accende",
+      "details": "מידע: https://sicilia.piazzainfesta.it/en/catania/natale-2026-sciara-di-luce-catania-la-bellezza-si-accende-128179.",
+      "status": "verified",
+      "source": {
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
+      },
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן."
+    },
+    {
+      "id": "christmas-town",
+      "name": "Christmas Town",
+      "town": "Catania",
+      "category": "event",
+      "address": "Le Ciminiere, Piazzale Rocco Chinnici / Viale Africa 12",
+      "coordinates": null,
+      "phone": null,
+      "email": "prenotazioni@christmastown.info",
+      "website": "https://www.christmastown.info/",
+      "openingHours": null,
+      "description": "כפר חג מולד גדול ומקורה בחלקו, עם מופעים, מתקנים, החלקה על הקרח, מצעד ודמויות חג",
+      "details": "Le Ciminiere, Piazzale Rocco Chinnici / Viale Africa 12; 5.12.2026–6.1.2027. ב־14–20.12 פתוח מדי יום 10:00–23:00. כרטיסים באתר https://www.christmastown.info/; דוא״ל: prenotazioni@christmastown.info; מחיר שפורסם €11–22 לפי יום/כרטיס. טלפון/WhatsApp לא פורסמו.",
+      "status": "verified",
+      "source": {
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
+      },
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן."
+    },
+    {
+      "id": "mercato-ittico-riposto",
+      "name": "Mercato Ittico",
+      "town": "Riposto",
+      "category": "market",
+      "address": "Corso Italia 2",
+      "coordinates": null,
+      "phone": null,
+      "email": null,
+      "website": null,
+      "openingHours": null,
+      "description": "שוק דגים באזור הנמל; כדאי להגיע בבוקר אם הוא פעיל.",
+      "subtitle": "שוק הדגים",
+      "details": "Corso Italia 2; שעות ופרטי קשר לא אומתו.",
+      "status": "needs_confirmation",
+      "source": {
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
+      },
+      "sourceNote": "מסומן ״נדרש בירור״ כי התיק עצמו מציין שחלק מהפרטים לא אומת (ראו ״מסומן בתיק״). שאר הפרטים אומתו לפי הצהרת המשתמש ב-25.11.2026.",
+      "unverifiedNote": "שעות ופרטי קשר לא אומתו."
+    },
+    {
+      "id": "fiera-mercato-martedi",
+      "name": "Fiera Mercato del Martedì",
+      "town": "Riposto",
+      "category": "market",
+      "address": null,
+      "coordinates": null,
+      "phone": null,
+      "email": null,
+      "website": null,
+      "openingHours": null,
+      "description": "שוק שבועי שדווח באזור Via Mattarella; עשוי להתאים לתאריך 15.12.",
+      "subtitle": "שוק יום שלישי",
+      "details": "בדרך כלל 08:00–13:00 לפי פרסום לא רשמי; לא נמצא אישור עירוני ברור.",
+      "status": "needs_confirmation",
+      "source": {
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
+      },
+      "sourceNote": "מסומן ״נדרש בירור״ כי התיק עצמו מציין שחלק מהפרטים לא אומת (ראו ״מסומן בתיק״). שאר הפרטים אומתו לפי הצהרת המשתמש ב-25.11.2026.",
+      "unverifiedNote": "לא נמצא אישור עירוני ברור."
+    },
+    {
+      "id": "940-ceramis",
+      "name": "940 Ceramis",
+      "town": "Riposto",
+      "category": "craft",
+      "address": "Corso Italia 63",
+      "coordinates": null,
+      "phone": null,
+      "email": null,
+      "website": null,
+      "openingHours": null,
+      "description": "בית מלאכה קטן שבו היוצר מכין עבודות קרמיקה.",
+      "subtitle": "סדנת קרמיקה",
+      "details": "Corso Italia 63; שעות וטלפון לא אומתו; לתאם ביקור עם היוצר.",
+      "status": "needs_confirmation",
+      "source": {
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
+      },
+      "sourceNote": "מסומן ״נדרש בירור״ כי התיק עצמו מציין שחלק מהפרטים לא אומת (ראו ״מסומן בתיק״). שאר הפרטים אומתו לפי הצהרת המשתמש ב-25.11.2026.",
+      "unverifiedNote": "שעות וטלפון לא אומתו"
+    },
+    {
+      "id": "riposto-christmas-market",
+      "name": "שוק חג המולד בריפוסטו",
+      "town": "Riposto",
+      "category": "event",
+      "address": null,
+      "coordinates": null,
+      "phone": null,
+      "email": null,
+      "website": "https://www.acatania.it/natale-e-capodanno-catania/",
+      "openingHours": null,
+      "description": "שוק חג המולד בכיכר Piazza San Pietro דווח ל־11–23.12.2026, 17:00–23:00, עם דוכני מלאכת יד, אוכל ומופעים; מתאים לתאריך 15.12. מידע: https://www.acatania.it/natale-e-capodanno-catania/. יש לאמת מול Pro Loco Riposto אם התוכנית והשעות אושרו סופית.",
+      "details": "",
+      "status": "needs_confirmation",
+      "source": {
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
+      },
+      "sourceNote": "מסומן ״נדרש בירור״ כי התיק עצמו מציין שחלק מהפרטים לא אומת (ראו ״מסומן בתיק״). שאר הפרטים אומתו לפי הצהרת המשתמש ב-25.11.2026.",
+      "unverifiedNote": "יש לאמת מול Pro Loco Riposto אם התוכנית והשעות אושרו סופית."
+    },
+    {
+      "id": "lungomare-torre-archirafi",
+      "name": "טיילת החוף של טורה ארקיראפי",
+      "town": "Torre Archirafi",
+      "category": "area",
+      "address": "Lungomare di Torre Archirafi",
+      "coordinates": null,
+      "phone": null,
+      "email": null,
+      "website": null,
+      "openingHours": null,
+      "description": "הליכה קצרה לאורך החוף הסלעי עם נוף פתוח לים.",
+      "details": "Lungomare di Torre Archirafi; ללא שעות פתיחה.",
+      "status": "verified",
+      "source": {
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
+      },
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן."
+    },
+    {
+      "id": "la-terrazza",
+      "name": "La Terrazza",
+      "town": "Torre Archirafi",
+      "category": "restaurant",
+      "address": "Via Marina di Torre 1",
+      "coordinates": null,
+      "phone": [
+        "+39 095 5864768",
+        "+39 327 1456985"
+      ],
+      "email": "laterrazza0419@gmail.com",
+      "website": "https://laterrazzaristorante.com",
+      "openingHours": null,
+      "description": "מסעדת דגים ופירות ים על קו המים בטורה ארקיראפי",
+      "details": "Via Marina di Torre 1; +39 095 5864768 / +39 327 1456985; laterrazza0419@gmail.com; שלישי 19:30–23:30 לפי הפרסום; אתר: https://laterrazzaristorante.com.",
+      "status": "verified",
+      "source": {
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
+      },
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן."
+    },
+    {
+      "id": "gusto",
+      "name": "Gustó",
+      "town": "Riposto",
+      "category": "restaurant",
+      "address": "Via Duca del Mare 59, Riposto",
+      "coordinates": null,
+      "phone": "+39 342 193 5886",
+      "email": null,
+      "website": null,
+      "openingHours": null,
+      "description": "מסעדת דגים ומטבח ים תיכוני מול אזור הנמל",
+      "details": "Via Duca del Mare 59, Riposto; +39 342 193 5886; שלישי 11:30–15:00 ו־19:00–23:00 לפי הפרסום; אתר/מייל/WhatsApp לא אותרו.",
+      "status": "verified",
+      "source": {
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
+      },
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן."
+    },
+    {
+      "id": "da-nonna-rosa",
+      "name": "Da Nonna Rosa",
+      "town": "Riposto",
+      "category": "restaurant",
+      "address": "Via Cristoforo Colombo 88/92, Riposto",
+      "coordinates": null,
+      "phone": "+39 095 803 3362",
+      "email": null,
+      "website": null,
+      "openingHours": null,
+      "description": "מסעדה משפחתית לא פורמלית עם אוכל סיציליאני ביתי",
+      "details": "Via Cristoforo Colombo 88/92, Riposto; +39 095 803 3362; שלישי 17:00–22:30 לפי הפרסום; אתר/מייל/WhatsApp לא אותרו.",
+      "status": "verified",
+      "source": {
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
+      },
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן."
+    },
+    {
+      "id": "a-putia-da-fantasia",
+      "name": "A Putia da Fantasia",
+      "town": "Riposto",
+      "category": "craft_shop",
+      "address": "Corso Italia 6, Riposto",
+      "coordinates": null,
+      "phone": "+39 347 947 6920",
+      "email": null,
+      "website": null,
+      "openingHours": null,
+      "description": "חנות/סדנת מלאכה קטנה של Deborah Caruso עם פריטים מצוירים בעבודת יד",
+      "details": "Corso Italia 6, Riposto; +39 347 947 6920; ב׳–ש׳ 09:00–18:30 לפי הפרסום; לא מסעדה. WhatsApp/מייל/אתר לא אותרו.",
+      "status": "verified",
+      "source": {
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
+      },
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן."
+    },
+    {
+      "id": "intrart",
+      "name": "IntrArt",
+      "town": "Linguaglossa",
+      "category": "walking_route",
+      "address": null,
+      "coordinates": null,
+      "phone": null,
+      "email": "culturaaetnae@gmail.com",
+      "website": "https://intrartlinguaglossa.it/tour",
+      "openingHours": null,
+      "description": "מסלול חינמי ועצמאי בין כ־50 ציורי קיר של כ־24 אמנים בסמטאות המרכז ההיסטורי; היצירות עוסקות באתנה ובמסורות המקומיות.",
+      "subtitle": "מוזיאון פתוח של אמנות רחוב",
+      "mapsLink": "https://www.google.com/maps/search/?api=1&query=Via+Marconi+2%2C+Linguaglossa%2C+Italy",
+      "details": "המסלול העצמאי חינמי ואפשר להתחיל בכל נקודה נוחה במרכז. נקודת היציאה הרשמית לסיור המודרך לפי האתר: Via Marconi 2, בפינת Via Roma, Linguaglossa. זו גם נקודת חיפוש נוחה במפת גוגל, אך אינה מוגדרת ככניסה מחייבת למסלול העצמאי. ליד כל ציור קיר QR עם מידע על היצירה והאמן; מפה להורדה: https://intrartlinguaglossa.it/tour. לסיור מודרך (כשעתיים, יציאות מתוכננות 10:00 או 16:30): culturaaetnae@gmail.com. | מפת גוגל לנקודת היציאה: [Via Marconi 2, Linguaglossa](https://www.google.com/maps/search/?api=1&query=Via+Marconi+2%2C+Linguaglossa%2C+Italy)",
+      "status": "verified",
+      "source": {
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
+      },
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן."
+    },
+    {
+      "id": "pineta-ragabo",
+      "name": "Pineta Ragabo",
+      "town": "Linguaglossa",
+      "category": "area",
+      "address": null,
+      "coordinates": null,
+      "phone": null,
+      "email": null,
+      "website": null,
+      "openingHours": null,
+      "description": "אזור יער נעים להליכה קצרה ולנוף בצפון האתנה.",
+      "subtitle": "יער האורנים",
+      "details": "דרך Mareneve; אין לשלב ללא בדיקת תחבורה, מזג אוויר ושביל מתאים.",
+      "status": "verified",
+      "source": {
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
+      },
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן."
+    },
+    {
+      "id": "monti-sartorius",
+      "name": "Monti Sartorius",
+      "town": "Linguaglossa",
+      "category": "walking_route",
+      "address": null,
+      "coordinates": null,
+      "phone": null,
+      "email": null,
+      "website": null,
+      "openingHours": null,
+      "description": "מסלול נופי בין מכתשים געשיים, יער וליבנה בצפון־מזרח האתנה.",
+      "subtitle": "מכתשי סרטוריוס",
+      "details": "מחוץ לכפר; נדרשת הסעה/מדריך ותיאום מראש.",
+      "status": "verified",
+      "source": {
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
+      },
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן."
+    },
+    {
+      "id": "museo-etnografico-etna",
+      "name": "Museo Etnografico dell’Etna",
+      "town": "Linguaglossa",
+      "category": "museum",
+      "address": "Piazza Annunziata",
+      "coordinates": null,
+      "phone": "+39 095 643094",
+      "email": null,
+      "website": null,
+      "openingHours": null,
+      "description": "אוסף קטן על טבע, מלאכות וחיי היומיום באזור האתנה, כולל כלי חקלאות ועיבוד ענבים.",
+      "subtitle": "המוזיאון האתנוגרפי",
+      "details": "Piazza Annunziata; לברר שעות מול Pro Loco Linguaglossa: +39 095 643094.",
+      "status": "verified",
+      "source": {
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
+      },
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן."
+    },
+    {
+      "id": "in-cucina-dai-pennisi",
+      "name": "In Cucina dai Pennisi",
+      "town": "Linguaglossa",
+      "category": "restaurant",
+      "address": "Via Umberto I 9–11",
+      "coordinates": null,
+      "phone": "+39 095 643160",
+      "email": null,
+      "website": null,
+      "openingHours": null,
+      "description": "קצבייה משפחתית עם מטבח פתוח ושולחנות קטנים; מנות בשר, גבינות ומאכלים מקומיים.",
+      "details": "Via Umberto I 9–11; +39 095 643160; שלישי–שבת 09:00–22:00, ראשון 09:00–15:30, סגור שני; אתר/מייל/WhatsApp לא אותרו.",
+      "status": "verified",
+      "source": {
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
+      },
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן."
+    },
+    {
+      "id": "vinetna",
+      "name": "VinEtna",
+      "town": "Linguaglossa",
+      "category": "restaurant",
+      "address": "Via Piano Santa Caterina 8",
+      "coordinates": null,
+      "phone": "+39 348 445 3788",
+      "email": null,
+      "website": null,
+      "openingHours": null,
+      "description": "אוסטריה/אנוטקה קטנה עם יינות אתנה, גבינות, נקניקים ומנות כפריות",
+      "details": "Via Piano Santa Caterina 8; +39 348 445 3788; שלישי 18:30–22:30, רביעי 19:00–23:00; אתר/מייל/WhatsApp לא אותרו.",
+      "status": "verified",
+      "source": {
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
+      },
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן."
+    },
+    {
+      "id": "trattoria-linguagrossa",
+      "name": "Trattoria Linguagrossa",
+      "town": "Linguaglossa",
+      "category": "restaurant",
+      "address": "Via Guglielmo Marconi 100",
+      "coordinates": null,
+      "phone": "+39 320 864 9723",
+      "email": null,
+      "website": null,
+      "openingHours": null,
+      "description": "טרattoria עם בישול סיציליאני ביתי",
+      "details": "Via Guglielmo Marconi 100; +39 320 864 9723; שלישי 19:30–22:30, סגור רביעי; אתר/מייל/WhatsApp לא אותרו. השעות לפי פרסומים, לאישור לפני הגעה.",
+      "status": "verified",
+      "source": {
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
+      },
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן."
+    },
+    {
+      "id": "randazzo-old-town",
+      "name": "העיר העתיקה של רנדצו",
+      "town": "Randazzo",
+      "category": "area",
+      "address": null,
+      "coordinates": null,
+      "phone": null,
+      "email": null,
+      "website": null,
+      "openingHours": null,
+      "description": "שיטוט בסמטאות אבן הלבה, בכיכרות Piazza San Martino ו־Piazza Municipio ובנקודות תצפית לעמק.",
+      "details": "מסלול חופשי במרכז.",
+      "status": "verified",
+      "source": {
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
+      },
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן."
+    },
+    {
+      "id": "gli-antichi-sapori",
+      "name": "Gli Antichi Sapori",
+      "town": "Randazzo",
+      "category": "restaurant",
+      "address": "Via Roma 32",
+      "coordinates": null,
+      "phone": "+39 389 518 3631",
+      "email": null,
+      "website": null,
+      "openingHours": null,
+      "description": "מסעדה קטנה במרכז עם מטבח סיציליאני עונתי, פטריות, קטניות ומנות מקומיות",
+      "details": "Via Roma 32; +39 389 518 3631 (באתר העירייה מופיע גם 095 922443); חמישי–שישי 11:30–15:00 לפי הפרסום; אתר/מייל/WhatsApp לא אותרו.",
+      "status": "verified",
+      "source": {
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
+      },
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן."
+    },
+    {
+      "id": "san-giorgio-e-il-drago",
+      "name": "San Giorgio e il Drago",
+      "town": "Randazzo",
+      "category": "restaurant",
+      "address": "Piazza San Giorgio 28",
+      "coordinates": null,
+      "phone": "+39 095 923972",
+      "email": null,
+      "website": null,
+      "openingHours": null,
+      "description": "טרattoria סיציליאנית עם פסטה בעבודת יד ומוצרים עונתיים",
+      "details": "Piazza San Giorgio 28; +39 095 923972; חמישי–שישי 12:30–14:30 ו־19:30–22:30; אתר/מייל/WhatsApp לא אותרו.",
+      "status": "verified",
+      "source": {
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
+      },
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן."
+    },
+    {
+      "id": "il-brillo-parlante",
+      "name": "Il Brillo Parlante by Tipicamente",
+      "town": "Randazzo",
+      "category": "restaurant",
+      "address": "Via Umberto 30",
+      "coordinates": null,
+      "phone": "+39 331 522 5802",
+      "email": null,
+      "website": null,
+      "openingHours": null,
+      "description": "מקום קטן בסגנון אנוטקה/טרטוריה עם גבינות, נקניקים, יינות ומנות מקומיות",
+      "details": "Via Umberto 30; +39 331 522 5802; שעות פתיחה לא פורסמו באופן אמין – לברר טלפונית לפני הגעה; אתר/מייל/WhatsApp לא אותרו.",
+      "status": "verified",
+      "source": {
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
+      },
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן."
+    },
+    {
+      "id": "passopisciaro",
+      "name": "Passopisciaro",
+      "town": "Passopisciaro",
+      "category": "area",
+      "address": null,
+      "coordinates": null,
+      "phone": null,
+      "email": null,
+      "website": null,
+      "openingHours": null,
+      "description": "כפר קטן בין לינגואגלוסה לרנדצו, מוקף כרמים; מעניין בעיקר בזכות יין, בעלי מלאכה ושיטוט קצר.",
+      "subtitle": "הכפר והיקבים",
+      "details": "עצירה רק אם Circumetnea עוצרת בפועל, יש הליכה בטוחה ופתרון חזרה; יקבים דורשים תיאום והסעה.",
+      "status": "verified",
+      "source": {
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
+      },
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן."
+    },
+    {
+      "id": "chiesa-madre-passopisciaro",
+      "name": "Chiesa Madre Maria SS. del Rosario",
+      "town": "Passopisciaro",
+      "category": "church",
+      "address": null,
+      "coordinates": null,
+      "phone": null,
+      "email": null,
+      "website": null,
+      "openingHours": null,
+      "description": "כנסייה נאו־קלאסית עם עיטורים וציורים של האמן המקומי Gioacchino Seminara.",
+      "subtitle": "הכנסייה המרכזית",
+      "details": "שעות ביקור לא פורסמו.",
+      "status": "verified",
+      "source": {
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
+      },
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן."
+    },
+    {
+      "id": "dosicily",
+      "name": "DOSicily",
+      "town": "Bronte",
+      "category": "food_shop",
+      "address": "Via Messina 190–192",
+      "coordinates": null,
+      "phone": null,
+      "email": null,
+      "website": null,
+      "openingHours": null,
+      "description": "חנות ומקום לטעימות של מוצרי פיסטוק; אפשר לברר טעימה קצרה בלי יציאה למטע.",
+      "subtitle": "טעימות פיסטוק",
+      "details": "Via Messina 190–192; פרטי קשר ושעות יש לאמת.",
+      "status": "needs_confirmation",
+      "source": {
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
+      },
+      "sourceNote": "מסומן ״נדרש בירור״ כי התיק עצמו מציין שחלק מהפרטים לא אומת (ראו ״מסומן בתיק״). שאר הפרטים אומתו לפי הצהרת המשתמש ב-25.11.2026.",
+      "unverifiedNote": "פרטי קשר ושעות יש לאמת."
+    },
+    {
+      "id": "simeto-rural-art-labs",
+      "name": "Simeto Rural Art Labs",
+      "town": "Adrano",
+      "category": "gallery",
+      "address": null,
+      "coordinates": null,
+      "phone": null,
+      "email": null,
+      "website": "https://simetoruralartlabs.it",
+      "openingHours": null,
+      "description": "מיזם לאמנות עכשווית, סדנאות ומפגשים עם יוצרים מקומיים.",
+      "subtitle": "מעבדת אמנות בעמק הסימטו",
+      "details": "Adrano; simetoruralartlabs.it; כתובת מדויקת ושעות קבלת קהל לא אומתו – לפנות מראש.",
+      "status": "needs_confirmation",
+      "source": {
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
+      },
+      "sourceNote": "מסומן ״נדרש בירור״ כי התיק עצמו מציין שחלק מהפרטים לא אומת (ראו ״מסומן בתיק״). שאר הפרטים אומתו לפי הצהרת המשתמש ב-25.11.2026.",
+      "unverifiedNote": "כתובת מדויקת ושעות קבלת קהל לא אומתו – לפנות מראש."
+    },
+    {
+      "id": "adrano-weekly-market",
+      "name": "השוק השבועי של אדרנו",
+      "town": "Adrano",
+      "category": "market",
+      "address": null,
+      "coordinates": null,
+      "phone": null,
+      "email": null,
+      "website": null,
+      "openingHours": null,
+      "description": "שוק רחוב בימי שלישי ושישי עם דוכני מזון ומוצרים.",
+      "details": "לפי תקנת העירייה 08:00–13:00; מיקום מדויק דורש בירור; עשוי להתאים ליום שישי 18.12.",
+      "status": "verified",
+      "source": {
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
+      },
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן."
+    },
+    {
+      "id": "ponte-dei-saraceni",
+      "name": "Ponte dei Saraceni",
+      "town": "Adrano",
+      "category": "historic_site",
+      "address": null,
+      "coordinates": null,
+      "phone": null,
+      "email": null,
+      "website": null,
+      "openingHours": null,
+      "description": "גשר אבן היסטורי מעל נהר סימטו, ליד ערוץ בזלת שנוצר מזרמי לבה.",
+      "subtitle": "גשר הסרצנים",
+      "details": "גישה חופשית לפי העירייה, אך מחוץ לעיר; אין תחבורה ציבורית ישירה מאומתת. לבקר רק אם תוסדר הסעה וחזרה.",
+      "status": "verified",
+      "source": {
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
+      },
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן."
+    },
+    {
+      "id": "tomaselli-bar",
+      "name": "Tomaselli Bar & Pasticceria",
+      "town": "Adrano",
+      "category": "restaurant",
+      "address": "Piazza Umberto 68",
+      "coordinates": null,
+      "phone": "+39 095 769 7173",
+      "email": null,
+      "website": null,
+      "openingHours": null,
+      "description": "בר, מאפייה ופסטיצ׳ריה מסורתית ליד הטירה הנורמנית, עם מאפים, ארנצ׳יני ומאכלים מוכנים",
+      "details": "Piazza Umberto 68; +39 095 769 7173; שלישי–שישי 06:00–22:00, שבת–ראשון 06:00–22:00 לפי הפרסום; אתר/מייל/WhatsApp לא אותרו. | Piazza Umberto 68; פרטי קשר ושעות לא אומתו.",
+      "status": "needs_confirmation",
+      "source": {
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
+      },
+      "sourceNote": "מסומן ״נדרש בירור״ כי התיק עצמו מציין שחלק מהפרטים לא אומת (ראו ״מסומן בתיק״). שאר הפרטים אומתו לפי הצהרת המשתמש ב-25.11.2026.",
+      "unverifiedNote": "פרטי קשר ושעות לא אומתו."
+    },
+    {
+      "id": "caffe-ottocento",
+      "name": "Caffè Ottocento",
+      "town": "Adrano",
+      "category": "restaurant",
+      "address": "Piazza Duca degli Abruzzi 9",
+      "coordinates": null,
+      "phone": "+39 339 432 8855",
+      "email": null,
+      "website": null,
+      "openingHours": null,
+      "description": "בית קפה מקומי בכיכר המרכזית, מתאים לעצירת קפה ומאפה",
+      "details": "Piazza Duca degli Abruzzi 9; +39 339 432 8855; שעות פתיחה לא אומתו; אתר/מייל/WhatsApp לא אותרו. | Piazza Duca degli Abruzzi 9; +39 339 432 8855; שעות לא אומתו.",
+      "status": "needs_confirmation",
+      "source": {
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
+      },
+      "sourceNote": "מסומן ״נדרש בירור״ כי התיק עצמו מציין שחלק מהפרטים לא אומת (ראו ״מסומן בתיק״). שאר הפרטים אומתו לפי הצהרת המשתמש ב-25.11.2026.",
+      "unverifiedNote": "שעות פתיחה לא אומתו שעות לא אומתו."
+    },
+    {
+      "id": "liberty-hotel-catania",
+      "name": "Liberty Hotel",
+      "town": "Catania",
+      "category": "lodging",
+      "address": "Via S. Vito 40, Catania",
+      "coordinates": null,
+      "phone": "+39 095 311 651",
+      "email": "info@libertyhotel.it",
+      "website": "https://libertyhotel.it/en",
+      "openingHours": null,
+      "subtitle": "קטניה",
+      "description": "מלון ללילות 13–14.12 וליל 19.12; קבלה 24 שעות ושמירת מזוודות לפי האתר.",
+      "details": "Via S. Vito 40, Catania; +39 095 311 651; WhatsApp +39 378 083 83 89; info@libertyhotel.it; libertyhotel.it/en. לאשר הגעה ב־01:00.",
+      "status": "verified",
+      "source": {
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
+      },
+      "sourceNote": "אומת לפי הצהרת המשתמש ב-25.11.2026. הערות ״לאמת״ שבטקסט המקורי של התיק נשמרו כפי שהן.",
+      "whatsapp": "+39 378 083 83 89"
+    },
+    {
+      "id": "shalai-linguaglossa",
+      "name": "Shalai",
+      "town": "Linguaglossa",
+      "category": "lodging",
+      "address": "Via Guglielmo Marconi 25",
+      "coordinates": null,
+      "phone": "+39 095 643 128",
+      "email": null,
+      "website": null,
+      "openingHours": null,
+      "subtitle": "לינגואגלוסה",
+      "description": "מלון ללילות 15–16.12.",
+      "details": "Via Guglielmo Marconi 25; +39 095 643 128 (לאמת מול אישור ההזמנה); קישור Booking נשמר בהתכתבות: (קישור Booking נשמר בהתכתבות ולא נכלל בנתונים)",
+      "status": "needs_confirmation",
+      "source": {
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
+      },
+      "sourceNote": "מסומן ״נדרש בירור״ כי התיק עצמו מציין שחלק מהפרטים לא אומת (ראו ״מסומן בתיק״). שאר הפרטים אומתו לפי הצהרת המשתמש ב-25.11.2026.",
+      "unverifiedNote": "+39 095 643 128 (לאמת מול אישור ההזמנה)"
+    },
+    {
+      "id": "ai-tre-parchi-randazzo",
+      "name": "Ai Tre Parchi Bed And Bike",
+      "town": "Randazzo",
+      "category": "lodging",
+      "address": "Via Tagliamento 49",
+      "coordinates": null,
+      "phone": null,
+      "email": null,
+      "website": "https://aitreparchibb.it",
+      "openingHours": null,
+      "subtitle": "רנדצו",
+      "description": "מלון ללילות 17–18.12.",
+      "details": "Via Tagliamento 49; אתר aitreparchibb.it; קישור Booking: (קישור Booking נשמר בהתכתבות ולא נכלל בנתונים) טלפון שהופיע במאגר נראה שגוי – לקחת פרטים מאישור ההזמנה; לתאם הפקדת מזוודות אם מגיעים מוקדם.",
+      "status": "needs_confirmation",
+      "source": {
+        "document": "trip_docx_2026-11-23",
+        "verification": "verified_by_user_statement"
+      },
+      "sourceNote": "מסומן ״נדרש בירור״ כי התיק עצמו מציין שחלק מהפרטים לא אומת (ראו ״מסומן בתיק״). שאר הפרטים אומתו לפי הצהרת המשתמש ב-25.11.2026.",
+      "unverifiedNote": "קישור Booking: (קישור Booking נשמר בהתכתבות ולא נכלל בנתונים) טלפון שהופיע במאגר נראה שגוי – לקחת פרטים מאישור ההזמנה"
     }
   ]
 }

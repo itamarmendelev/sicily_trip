@@ -74,6 +74,10 @@
       "id": "walking_route",
       "label": "מסלולי הליכה",
       "icon": "footprints"
+    },
+    {
+      "id": "event",
+      "label": "אירועי חג המולד"
     }
   ]
 }

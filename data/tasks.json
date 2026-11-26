@@ -1,14 +1,6 @@
 {
   "tasks": [
     {
-      "id": "confirm-catania-hotel",
-      "title": "לאשר שם וכתובת המלון הסופיים בקטניה",
-      "area": "Catania",
-      "priority": "high",
-      "status": "open",
-      "details": "כולל זמינות, מחיר, תנאי ביטול, שעת קבלה/הגעה מאוחרת ותחנת Alibus הקרובה."
-    },
-    {
       "id": "confirm-fce-december",
       "title": "לאמת לוחות FCE לתאריכים 15–19.12.2026",
       "area": "Transport",
@@ -34,7 +26,7 @@
     },
     {
       "id": "verify-opening-hours",
-      "title": "לאמת שעות פתיחה של אתרים מרכזיים",
+      "title": "לאמת ישירות פתיחת סטודיו הקרמיקה, הגן הבוטני ואתרי הביקור שנבחרו",
       "area": "All",
       "priority": "high",
       "status": "open",
@@ -58,7 +50,7 @@
     },
     {
       "id": "verify-restaurants",
-      "title": "לאמת פעילות מסעדות בימי השבוע המתוכננים",
+      "title": "לאמת ישירות את שעות המסעדות והחנויות, ובפרט שעות חג המולד ואת הפעילות בימי השבוע של הביקור",
       "area": "All",
       "priority": "medium",
       "status": "open"

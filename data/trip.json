@@ -14,20 +14,31 @@
   ],
   "summary": "טיול בתחבורה ציבורית סביב האתנה; דגש על כפרים, הליכות נוחות, נופים, אמנות ומלאכות מקומיות, כנסיות, שווקים, סיפורים ומפגשים. להשאיר מרווח לשיטוט ולא להעמיס יעדים.",
   "sourceDocument": {
-    "filename": "תיק_טיול_סיציליה_דצמבר_2026_מעודכן_חנויות_יד_שניה_ורנדצו.pdf",
-    "pages": 9,
-    "informationCollectedThrough": "2026-11-16",
-    "documentUpdated": "2026-11-18",
-    "extractionDate": "2026-11-21",
-    "note": "כל פרטי השעות, הזמינות והפעילות במסמך המקור עשויים לדרוש אימות. אין לראות בהם הבטחה."
+    "filename": "Sicily_Dossier_Updated_Contacts_Christmas_Food_23-11-2026_edited.docx",
+    "date": "2026-11-23",
+    "note": "תיק מקוצר לעיון ולסינון; מהווה את מקור התוכן הנוכחי."
   },
   "lodging": [
     {
-      "placeId": "bellini-inn-deluxe",
+      "placeId": "liberty-hotel-catania",
       "town": "Catania",
-      "name": "Bellini Inn Deluxe",
+      "name": "Liberty Hotel",
+      "status": "verified",
+      "notes": "מלון ללילות 13–14.12 וליל 19.12; קבלה 24 שעות ושמירת מזוודות לפי האתר."
+    },
+    {
+      "placeId": "shalai-linguaglossa",
+      "town": "Linguaglossa",
+      "name": "Shalai",
       "status": "needs_confirmation",
-      "notes": "יש לאשר ישירות זמינות, מחיר, תנאי ביטול, כתובת סופית ושעת קבלה/אפשרות הגעה מאוחרת. ההגעה מתוכננת בשעה 01:00 בלילה שבין 13 ל-14 בדצמבר."
+      "notes": "מלון ללילות 15–16.12."
+    },
+    {
+      "placeId": "ai-tre-parchi-randazzo",
+      "town": "Randazzo",
+      "name": "Ai Tre Parchi Bed And Bike",
+      "status": "needs_confirmation",
+      "notes": "מלון ללילות 17–18.12."
     }
   ],
   "flight": {
@@ -36,5 +47,23 @@
     "targetAirportArrivalTime": "15:00",
     "airport": "Catania Airport",
     "status": "provided_in_source"
-  }
+  },
+  "previousLodging": [
+    {
+      "placeId": "bellini-inn-deluxe",
+      "town": "Catania",
+      "name": "Bellini Inn Deluxe",
+      "status": "needs_confirmation",
+      "notes": "יש לאשר ישירות זמינות, מחיר, תנאי ביטול, כתובת סופית ושעת קבלה/אפשרות הגעה מאוחרת. ההגעה מתוכננת בשעה 01:00 בלילה שבין 13 ל-14 בדצמבר."
+    }
+  ],
+  "previousSourceDocument": {
+    "filename": "תיק_טיול_סיציליה_דצמבר_2026_מעודכן_חנויות_יד_שניה_ורנדצו.pdf",
+    "pages": 9,
+    "informationCollectedThrough": "2026-11-16",
+    "documentUpdated": "2026-11-18",
+    "extractionDate": "2026-11-21",
+    "note": "כל פרטי השעות, הזמינות והפעילות במסמך המקור עשויים לדרוש אימות. אין לראות בהם הבטחה."
+  },
+  "disclaimer": "כל שעות הפתיחה, המחירים והפעילויות הם מידע שפורסם בעבר ואינם אישור לפתיחה בדצמבר 2026. יש לאמת סמוך לביקור."
 }

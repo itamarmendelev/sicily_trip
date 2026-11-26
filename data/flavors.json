@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "id": "cuccia",
+      "name": "Cuccìa",
+      "description": "חיטה מבושלת בגרסה מתוקה; קשורה במיוחד לחג Santa Lucia ב־13 בדצמבר."
+    },
+    {
+      "id": "crispelle-di-riso-al-miele",
+      "name": "Crispelle di riso al miele",
+      "description": "לביבות/מקלות אורז מטוגנים עם דבש, מאכל חורפי המזוהה עם קטניה."
+    },
+    {
+      "id": "buccellato",
+      "name": "Buccellato",
+      "description": "עוגת חג ממולאת בדרך כלל בתאנים מיובשות, אגוזים ושקדים."
+    },
+    {
+      "id": "cucciddati",
+      "name": "Cucciddati",
+      "description": "מאפים ממולאים בתאנים, שקדים, אגוזים ולעיתים שוקולד."
+    },
+    {
+      "id": "mustazzoli",
+      "name": "Mustazzoli",
+      "description": "עוגיות מתובלות, לעיתים עם דבש או יין מבושל."
+    },
+    {
+      "id": "cubbaita",
+      "name": "Cubbaita",
+      "description": "ממתק פריך של שומשום ושקדים בקרמל או בדבש."
+    },
+    {
+      "id": "torrone",
+      "name": "Torrone",
+      "description": "נוגט או ממתק שקדים ואגוזים, רך או קשה."
+    }
+  ],
+  "tip": "בקטניה ב־14.12 כדאי לשאול על Cuccìa שנותרה אחרי חג Santa Lucia ועל Crispelle di riso al miele. בכפרים לחפש Buccellato, Cucciddati, Mustazzoli ו־Torrone; בברונטה – מוצרי פיסטוק. הזמינות משתנה בין מאפיות ובין ימים."
+}

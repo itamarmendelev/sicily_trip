@@ -10,7 +10,7 @@
         "title": "הגעה למלון",
         "period": "night",
         "priority": "essential",
-        "placeId": "bellini-inn-deluxe",
+        "placeId": "liberty-hotel-catania",
         "notes": "לתאם מראש הגעה מאוחרת וקבלת חדר. לוודא כתובת ודרך הגעה."
       }
     ]
@@ -54,20 +54,41 @@
         "period": "afternoon",
         "priority": "research_needed",
         "notes": "האתר לא זוהה בשם מדויק במסמך; אין ליצור עבורו נקודת ניווט עד לזיהוי."
-      },
-      {
-        "title": "Osteria Antica Marina",
-        "period": "lunch",
-        "priority": "candidate",
-        "placeId": "osteria-antica-marina",
-        "notes": "מועמדת בלבד; לבדוק פתיחה והזמנה ביום שני."
       }
     ],
     "rainyDayPlaceIds": [
       "monastero-benedettini",
-      "macs-catania",
-      "le-ciminiere",
       "orto-botanico-catania"
+    ],
+    "optionPlaceIds": [
+      "baroque-center-catania",
+      "fontana-amenano",
+      "villa-pacini",
+      "san-gaetano-alle-grotte",
+      "palazzo-biscari",
+      "maninterra",
+      "ceramiche-de-simone",
+      "antica-bottega-puparo",
+      "mercatino-usato-catania",
+      "roba-vintage",
+      "blue-velvet",
+      "anthem-store",
+      "freak-vintage",
+      "il-rigattiere",
+      "second-chance",
+      "a-putia-do-calabrisi",
+      "trattoria-aldo-lunch",
+      "caffe-opera",
+      "pastamia",
+      "frolla",
+      "centriamo-il-natale",
+      "sciara-di-luce",
+      "christmas-town"
+    ],
+    "extraNotes": [
+      "שבע אפשרויות לעינת; שעות הן לפי פרסומים מקוונים ויש לאמת לפני ההגעה. WhatsApp ודוא״ל לא פורסמו ברוב העסקים.",
+      "הערה: המסעדות נבחרו לפי שעות שפורסמו ליום שני, אך יש לאשר טלפונית סמוך לביקור; שעות חג עשויות להשתנות.",
+      "תאורת החג – התאורה וקישוטי הרחובות במרכז העיר פעילים בתקופת אירועי החג; לשיטוט ערב מומלץ להתחיל ב־Piazza Università ולהמשיך לכיוון Piazza Duomo ו־Via Etnea."
     ]
   },
   {
@@ -108,6 +129,28 @@
     "warnings": [
       "אין להניח שיש שמירת חפצים בתחנה או בעסק.",
       "אין לבצע עצירה עם מזוודות ללא פתרון מפורש."
+    ],
+    "optionPlaceIds": [
+      "mercato-ittico-riposto",
+      "fiera-mercato-martedi",
+      "parco-delle-kentie",
+      "940-ceramis",
+      "basilica-san-pietro-riposto",
+      "madonna-lettera",
+      "riposto-christmas-market",
+      "lungomare-torre-archirafi",
+      "palazzo-vigo",
+      "la-terrazza",
+      "gusto",
+      "da-nonna-rosa",
+      "a-putia-da-fantasia",
+      "in-cucina-dai-pennisi",
+      "vinetna",
+      "trattoria-linguagrossa"
+    ],
+    "extraNotes": [
+      "הערה מעשית: עצירה בריפוסטו/טורה ארקיראפי רק אם יש פתרון למזוודות וחיבור תחבורה נוח ללינגואגלוסה.",
+      "אירועי חג: לא נמצא אירוע נקודתי עם תאריך ושעות מאומתים בלינגוגלוסה ב־15–16.12; אפשר לבדוק קישוטי חג ותצוגות presepi במרכז מול Pro Loco."
     ]
   },
   {
@@ -142,20 +185,24 @@
         "priority": "candidate",
         "placeId": "neri-agricoltura-etna",
         "notes": "ביקור חקלאי-קולינרי בתיאום מראש; לברר מחיר, שפה, תחבורה וכמה מהביקור מקורה."
-      },
-      {
-        "title": "Tenute Vecchio",
-        "period": "flexible",
-        "priority": "candidate",
-        "placeId": "tenute-vecchio",
-        "notes": "ביקור וטעימות בתיאום מראש; חלק מהסיור בחוץ. לברר הגעה ללא רכב."
       }
     ],
     "rainyDayPlaceIds": [
       "chiesa-madre-linguaglossa",
       "museo-francesco-messina",
-      "neri-agricoltura-etna",
-      "tenute-vecchio"
+      "neri-agricoltura-etna"
+    ],
+    "optionPlaceIds": [
+      "intrart",
+      "pineta-ragabo",
+      "monti-sartorius",
+      "museo-etnografico-etna",
+      "in-cucina-dai-pennisi",
+      "vinetna",
+      "trattoria-linguagrossa"
+    ],
+    "extraNotes": [
+      "אירועי חג: לא נמצא אירוע נקודתי עם תאריך ושעות מאומתים בלינגוגלוסה ב־15–16.12; אפשר לבדוק קישוטי חג ותצוגות presepi במרכז מול Pro Loco."
     ]
   },
   {
@@ -189,6 +236,23 @@
       "casa-musica-liuteria",
       "museo-opera-pupi",
       "museo-scienze-naturali-randazzo"
+    ],
+    "optionPlaceIds": [
+      "randazzo-old-town",
+      "bottega-orafa",
+      "galleria-vecchio",
+      "chiesa-san-martino",
+      "donnafugata-etna",
+      "i-rustici",
+      "gli-antichi-sapori",
+      "san-giorgio-e-il-drago",
+      "il-brillo-parlante",
+      "passopisciaro",
+      "chiesa-madre-passopisciaro"
+    ],
+    "extraNotes": [
+      "אירועי חג: אין לוח רשמי מאומת ל־17–18.12; לברר ב־Pro Loco על presepi, קישוטים ואירועים מקומיים.",
+      "הכפר אינו יעד חובה. אין לרדת בתחנת ביניים בלי לוודא שירות חזור והליכה בטוחה."
     ]
   },
   {
@@ -236,6 +300,35 @@
     "warnings": [
       "מוזיאון הרכבת בברונטה אינו יעד ודאי; הגישה תלויה בפתיחת המקום על ידי צוות התחנה.",
       "אין להעמיס יותר מדי תחנות ביום אחד."
+    ],
+    "optionPlaceIds": [
+      "randazzo-old-town",
+      "casa-musica-liuteria",
+      "bottega-orafa",
+      "galleria-vecchio",
+      "museo-opera-pupi",
+      "museo-scienze-naturali-randazzo",
+      "chiesa-san-martino",
+      "randazzo-jewish-route",
+      "donnafugata-etna",
+      "i-rustici",
+      "gli-antichi-sapori",
+      "san-giorgio-e-il-drago",
+      "il-brillo-parlante",
+      "gennarinos-bistro",
+      "dosicily",
+      "sicilfrutti-marullo",
+      "museo-ferroviario-bronte",
+      "simeto-rural-art-labs",
+      "adrano-weekly-market",
+      "ponte-dei-saraceni",
+      "tomaselli-bar",
+      "caffe-ottocento"
+    ],
+    "extraNotes": [
+      "אירועי חג: אין לוח רשמי מאומת ל־17–18.12; לברר ב־Pro Loco על presepi, קישוטים ואירועים מקומיים.",
+      "בדצמבר אין קטיף פיסטוק; אפשר לטעום מוצרים ולשמוע על הגידול והעיבוד. שוק יום חמישי דווח אך אינו מאומת, ואינו מתאים לתאריך 18.12.",
+      "יש לבחור באדרנו או בברונטה – לא לנסות לדחוס את שתיהן באותו יום."
     ]
   },
   {
@@ -260,6 +353,14 @@
     ],
     "warnings": [
       "שוק יום ראשון של רנדצו אינו מתאים ללינה המתוכננת בקטניה בליל 19.12."
+    ],
+    "optionPlaceIds": [
+      "centriamo-il-natale",
+      "sciara-di-luce",
+      "christmas-town"
+    ],
+    "extraNotes": [
+      "תאורת החג – התאורה וקישוטי הרחובות במרכז העיר פעילים בתקופת אירועי החג; לשיטוט ערב מומלץ להתחיל ב־Piazza Università ולהמשיך לכיוון Piazza Duomo ו־Via Etnea."
     ]
   },
   {
@@ -277,8 +378,7 @@
       }
     ],
     "warnings": [
-      "מחיר/תדירות Alibus במסמך הם נתונים שדווחו ולא התחייבות עדכנית.",
-      "הצעת המונית מהמלון 40–60 אירו אינה תעריף מובטח."
+      "מחיר/תדירות Alibus במסמך הם נתונים שדווחו ולא התחייבות עדכנית."
     ]
   }
 ]
